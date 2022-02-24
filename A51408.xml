@@ -1,0 +1,560 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Debts discharge, or Some considerations on Rom. 13. 8. the former part. Owe nothing to any man, but to love one another Being an endeavour to state that case of conscience, and designed to perswade all men to get and keep out of debt as much as may be. By C.M.</title>
+            <author>Morton, Charles, 1627-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51408</idno>
+            <idno type="STC">Wing M2821</idno>
+            <idno type="STC">ESTC R216839</idno>
+            <idno type="EEBO-CITATION">99828555</idno>
+            <idno type="PROQUEST">99828555</idno>
+            <idno type="VID">32984</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32984)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1955:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Debts discharge, or Some considerations on Rom. 13. 8. the former part. Owe nothing to any man, but to love one another Being an endeavour to state that case of conscience, and designed to perswade all men to get and keep out of debt as much as may be. By C.M.</title>
+                  <author>Morton, Charles, 1627-1698.</author>
+               </titleStmt>
+               <extent>[4], 60, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho Cockerill, at the Three Legs in the Poultry, over against the Stock Market,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: Debts discharge, or Owe nothing to any man.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Reproduction of the original in the Congregational Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans, XIII, 8 --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32984:1" rendition="simple:additions"/>
+            <pb facs="tcp:32984:1" rendition="simple:additions"/>
+            <p>Debts Diſcharge, OR SOME CONSIDERATIONS ON <hi>ROM.</hi> 13.8. the former Part.</p>
+            <q>Owe nothing to any man, but to love one another.</q>
+            <p>Being an Endeavour to ſtate that Caſe of Conſcience, and de<g ref="char:EOLhyphen"/>ſigned to perſwade all men to get and keep out of Debt as much as may be.</p>
+            <p>By <hi>C. M.</hi>
+            </p>
+            <q>
+               <p>The wicked borroweth, and payeth not again,
+<bibl>
+                     <hi>Pſal. 37.21.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>The borrower is ſervant to the lender,
+<bibl>
+                     <hi>Pro. 22.7.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>Poſt Tringita Dies a Judice Conſtitutos, Debi<g ref="char:EOLhyphen"/>tor non ſolvens, vinctus compedibus, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in nervo, tradebatur creditori, qui eum domi ceu Jumentum cogebat operari, quoad ſibi ſatis<g ref="char:EOLhyphen"/>factum eſſet.</p>
+               <bibl>
+                  <hi>In Legib. 12. Tab. ut refert Aulus Gellius.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho Cockerill,</hi> at the <hi>Three Legs</hi> in the <hi>Poultry,</hi> over againſt the <hi>Stocks Market.</hi> 1684.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:32984:2"/>
+            <pb facs="tcp:32984:2"/>
+            <head>The CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>THe</hi> Context <hi>opened, of dues to</hi> Magi<g ref="char:EOLhyphen"/>ſtrates Page 1</item>
+               <item>
+                  <hi>Of</hi> Debts, <hi>the</hi> Diſtribution into
+<list>
+                     <item>proper Lawful 4</item>
+                     <item>proper Unlawful 4</item>
+                     <item>Metaphorical 4</item>
+                  </list>
+               </item>
+               <item>Lawful, <hi>ſhewed from</hi>
+                  <list>
+                     <item>
+                        <hi>The nature of the</hi> Contract 5</item>
+                     <item>
+                        <hi>Neceſſity and Expedience</hi> 8</item>
+                     <item>
+                        <hi>Scripture</hi>
+                        <list>
+                           <item>Commanding <hi>to lend</hi> 10</item>
+                           <item>Commending <hi>the Lender</hi> 12</item>
+                           <item>
+                              <hi>Allowing</hi> Uſury 13</item>
+                        </list>
+                     </item>
+                     <item>Pauls, <hi>and other good mens Debts</hi> 16</item>
+                     <item>
+                        <hi>Mutual borrowing, is</hi> Brotherly kindneſs 17</item>
+                  </list>
+               </item>
+               <item>Unlawful, <hi>its Debtors</hi> Careleſs, their <hi>Cauſes</hi>
+                  <list>
+                     <item>Not conſidering <hi>Eſtates</hi> 19</item>
+                     <item>Suretiſhip, <hi>lawful, and unlawful</hi> 19</item>
+                     <item>
+                        <hi>Creditors rebuked</hi> 24</item>
+                  </list>
+               </item>
+               <item>Treacherous 26</item>
+               <pb facs="tcp:32984:3"/>
+               <item>Proud 27</item>
+               <item>Preſumptuous, <hi>and Covetous</hi> 28</item>
+               <item>
+                  <hi>Concomitants</hi>
+                  <list>
+                     <item>Sin, <hi>and the cauſe of Sin</hi> 29</item>
+                     <item>Sorrow, <hi>from</hi> Diſgrace, <hi>and</hi> Di<g ref="char:EOLhyphen"/>ſturbance 30</item>
+                  </list>
+               </item>
+               <item>Advice <hi>to men</hi>
+                  <list>
+                     <item>
+                        <hi>In debt</hi>
+                        <list>
+                           <item>
+                              <hi>General to all</hi> 35</item>
+                           <item>
+                              <hi>Special to ſome</hi>
+                              <list>
+                                 <item>Sureties 38</item>
+                                 <item>Heirs <hi>and Executors</hi> 39</item>
+                                 <item>Corporations 45</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Out of Debt, to avoid</hi>
+                  <list>
+                     <item>
+                        <hi>Sodomiticals</hi>
+                        <list>
+                           <item>Pride 48</item>
+                           <item>Idelneſs 50</item>
+                           <item>Fulneſs <hi>of Bread</hi> 52</item>
+                        </list>
+                     </item>
+                     <item>Covetouſneſs 54</item>
+                     <item>Vain confidence 56</item>
+                  </list>
+               </item>
+               <item>Metaphorical <hi>Debts, eſpecially of Law</hi> 57</item>
+            </list>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 19 line 22. for <hi>compound,</hi> read <hi>become bound.</hi> page 45 line 27. for <hi>oblatum,</hi> read <hi>ablatum.</hi> Page 48 line 10 for <hi>Halter,</hi> read <hi>Halſer.</hi> Page 49 line 8. for <hi>houſes,</hi> read <hi>horſes.</hi> Page 59 line 7. for <hi>rendes,</hi> read <hi>renders.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32984:3"/>
+            <head>Debts diſcharge: OR, Some Conſiderations on <hi>Rom.</hi> 13.8. the former Part, <hi>Owe nothing to any man, but to love one another.</hi>
+            </head>
+            <p>THE Apoſtle having in the 12. chap. diſcourſed of divers <hi>Ethical</hi> Vertues; he comes in this 13th. to treat of ſome <hi>Politicals;</hi> particularly of <hi>O<g ref="char:EOLhyphen"/>bedience to Governors</hi> from v. 1. to 7th; and of <hi>common Juſtice</hi> to one another, from 7. to 11. In the former he preſſes Subjection by Arguments drawn from the <hi>Fountain</hi> and <hi>Streams</hi> of Government.</p>
+            <p n="1">1. The <hi>Fountain</hi> thereof is <hi>Gods Ordinati<g ref="char:EOLhyphen"/>on, v.</hi> 1. <hi>No power but of God — The powers that be, are ordained of God.</hi> Whence he infers this corollary; Therefore they that
+<pb n="2" facs="tcp:32984:4"/>reſiſt Government, <hi>reſiſt Gods Ordinance,</hi> and <hi>receive to themſelves Judgment,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) not only of men, but of God, whoſe Ordinance <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s violated by them, v. 2.</p>
+            <p n="2">2. His ſecond Argument is taken out of the <hi>Streams,</hi> the <hi>uſe</hi> and <hi>Benefits</hi> of Magiſtracy, which are (according to Gods Ordination) <hi>praiſe</hi> and encouragement of <hi>good works,</hi> and a <hi>terror only</hi> to thoſe <hi>evils</hi> (our own, or others) which might hurt us: And there<g ref="char:EOLhyphen"/>fore it is ſaid, <hi>He is a minister of God unto the for good,</hi> v. 3, 4.</p>
+            <p>From both theſe Arguments he infers a neceſſity of ſubordination (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) v. 5. <hi>Wherefore we muſt needs be ſubject,</hi> and that <hi>not only for wrath</hi> (for fear of puniſh<g ref="char:EOLhyphen"/>ment by humane laws, whereby the vileſt men are ſome way impelled or reſtrained) <hi>but for conſcience ſake,</hi> as genuine Chriſtians who acknowledg this ſubjection neceſſary by Divine Precept, and therefore readily com<g ref="char:EOLhyphen"/>ply with ſuch Magiſtratical commands, as they judg agreeable to the Will of God <hi>(uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad aras)</hi> This practical judging according to the rule of Conſcience (Gods holy word) is neceſſary for conſcientious obedience; and a modeſt enquiry into the Reaſons of Su<g ref="char:EOLhyphen"/>periors commands, doth no more derogate from the Dignity of the commanders, than examining Doctrines in matters of Faith,
+<pb n="3" facs="tcp:32984:4"/>does from the Preachers of the word; which this very Apoſtle commands often, and com<g ref="char:EOLhyphen"/>mends in the <hi>Bereans</hi> as a noble induſtry.</p>
+            <p>He proceeds to ſhew, why men do, or ought to pay tribute, v. 6. <hi>For this cauſe pay you tribute alſo, for they are Gods Miniſters.</hi> For this <hi>cauſe,</hi> namely, <hi>Conſcience:</hi> Becauſe Chriſt commands it, <hi>Matth.</hi> 22.21. And becauſe they are <hi>Gods Miniſters.</hi>
+            </p>
+            <p>He ſubjoins another Reaſon, enforcing even natural conſcience by common equity, if there were no Chriſtianity in men; and that is, <hi>Attending continually upon this very thing,</hi> namely, the Miniſtry of God <hi>for your good</hi> (according to their afore-noted Conſtituti<g ref="char:EOLhyphen"/>on). Now, as expreſs Law, and common Reaſon, require proviſion for the <hi>Miniſters of Worſhip,</hi> to carry on their ſervice, and main<g ref="char:EOLhyphen"/>tain their perſons <hi>(they who attend on the Altar muſt live of the Altar);</hi> ſo the ſame Law and Reaſon requires ſupport to the <hi>Miniſters of Juſtice,</hi> whoſe publick Service, and honourable ſtate, (neceſſary thereunto) cannot be maintained without an anſwerable common contribution.</p>
+            <p>He concludes this diſcourſe of Magiſtrates, and paſſes over to the other branch, <hi>common Juſtice,</hi> with a general Exhortation, <hi>Render therefore to all their dues.</hi> v. 7. To the <hi>Ma<g ref="char:EOLhyphen"/>giſtrates,</hi> their <hi>Tributes, Cuſtoms, Fear, Ho<g ref="char:EOLhyphen"/>nour;</hi>
+               <pb n="4" facs="tcp:32984:5"/>and to <hi>all others,</hi> their proprieties and due debts; be juſt to all; be behind-hand with no man; if you pay it not, it ſtill re<g ref="char:EOLhyphen"/>mains due; <hi>right never rots;</hi> You are ſtill debtors in equity, which I would not have you be (ſays God by the Apoſtle) <hi>Owe no<g ref="char:EOLhyphen"/>thing to any man but love.</hi>
+            </p>
+            <p>In the Words there is mentioned a twofold debt; one that is incumbent only upon one party, and this is <hi>debt proper;</hi> the other is reciprocal, and incumbent on both, <hi>Love; (love one another)</hi> which is a <hi>debt metaphori<g ref="char:EOLhyphen"/>cal.</hi> 'Tis the <hi>proper debt (aes alienum)</hi> of which we intend now more fully to diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p>This in the preſent prohibition ſeems abſo<g ref="char:EOLhyphen"/>lutely and univerſally forbidden; <hi>nothing; not to any man;</hi> Prince, or Subject, high or low. But if you look back to v. 7. <hi>(Ren<g ref="char:EOLhyphen"/>der to all their dues);</hi> That hints to us a limi<g ref="char:EOLhyphen"/>ted ſenſe, in which I conceive it muſt be un<g ref="char:EOLhyphen"/>derſtood: Not that to be in debt is abſolute<g ref="char:EOLhyphen"/>ly and in it ſelf unlawful; but ſuch a wilful owing is forbidden, as detains anothers <hi>due</hi> without his free approbation and conſent; that renders it not, when it is required of him.</p>
+            <p>Seeing therefore the matter admits of a diſtinction of <hi>lawful</hi> and <hi>unlawful</hi> owing; we ſhall treat of both, that the caſe of conſcience
+<pb n="5" facs="tcp:32984:5"/>may be more fully reſolved. And firſt of lawful Debt.</p>
+            <p n="1">1. Debt is <hi>lawful in it ſelf,</hi> for it is one of the ſpecies or kinds of contract founded on mans dominion over his own proprieties; namely, that between Lender and Borrower, which may be thus defined.</p>
+            <p>
+               <hi>A contract, wherein one that has full domi<g ref="char:EOLhyphen"/>nion of money, (or any other thing valuable by money) placeth it for a time in the hand and for the uſe of another, only for his profit.</hi> In which,</p>
+            <p n="1">1. <hi>Full Dominion;</hi> It ſignifies a <hi>compleat right</hi> and propriety in a thing, or a <hi>ſufficient truſt</hi> committed by ſuch a Proprietor; and both the Proprietor and Truſtee muſt have an actual power and capacity prudently to diſpoſe of it: Therefore <hi>Children</hi> under age or years of diſcretion; <hi>mad-men</hi> under di<g ref="char:EOLhyphen"/>ſtempers; men of weaker underſtanding, and in this matter apt to be impoſed upon; <hi>feme Coverts</hi> in ſuch things as are not com<g ref="char:EOLhyphen"/>mitted to their management; <hi>Guardians</hi> and <hi>Servants</hi> beyond their truſt; <hi>Partners</hi> with<g ref="char:EOLhyphen"/>out conſent; the truſt or conſent expreſſed, or reaſonably preſumed; have not full do<g ref="char:EOLhyphen"/>minion, and therefore are not capable of any contract in ſuch matters; and therefore not of borrowing or lending in their own or others names.</p>
+            <pb n="6" facs="tcp:32984:6"/>
+            <p n="2">2. <hi>Of money, or any thing valuable by it:</hi> For it may be Food, Raiment, Labour, a Horſe, a Houſe, or any other ſuch goods, as can be rendred again, either in the individual (the very ſame) without damage, or in the kind of like value, or in equivalent Mo<g ref="char:EOLhyphen"/>ney.</p>
+            <p n="3">3. <hi>For a time:</hi> Either determined by the contract (as a Day, Week, Year) or unde<g ref="char:EOLhyphen"/>termined; and ſo is determinable by the Will of the Lender: This diſtinguiſheth it from <hi>gift,</hi> which altering the propriety, the former Owner does no more require it.</p>
+            <p n="4">4. <hi>Into the hand,</hi> and <hi>for the uſe of another.</hi> Herein it differs from entruſting a man with a thing only to be kept for the Owners uſe, when he ſhall call for it: As when I put my Horſe to Graſs, or into a Livery-Stable, <hi>&amp;c.</hi>
+            </p>
+            <p n="5">5. Laſtly: <hi>Only for his profit:</hi> For if the Lender contract for profit (more or leſs) to himſelf, it ceaſes to be loan, and runs into ſome other ſpecies of contract. Indeed it ſtill retains in our vulgar language (altho im<g ref="char:EOLhyphen"/>properly) the name of debt, borrowing or lending; whereby the true nature of lend<g ref="char:EOLhyphen"/>ing is but confuſedly underſtood by the moſt, and thereby many needleſs diſputes and ſcru<g ref="char:EOLhyphen"/>ples about <hi>Uſury</hi> have been raiſed. Lending muſt be free ſay ſome; and ſo ſay I, or elſe it
+<pb n="7" facs="tcp:32984:6"/>is not lending; for if it be otherwiſe, the contract is altered. As,</p>
+            <p n="1">1. If to <hi>ſhare of the profits,</hi> 'Tis not loan, but <hi>Partnerſhip.</hi>
+            </p>
+            <p n="2">2. If to have <hi>compenſation for damage:</hi> Neither is that loan, but <hi>hire.</hi> And therefore ſome do call their <hi>intereſt,</hi> (not improperly) <hi>damage money;</hi> becauſe, tho there be not <hi>damnum ingruens</hi> (actual loſs) yet there is <hi>lucrum ceſſans</hi> (ceaſing of profit) by having ones money in anothers hand. Tho a man loſes not what he has, yet he loſes what he <hi>might have,</hi> were it in hisown hand to be u<g ref="char:EOLhyphen"/>ſed and improved by him.</p>
+            <p>Now that <hi>this is lawful,</hi> conſider, that <hi>mo<g ref="char:EOLhyphen"/>ney anſwers all things,</hi> Eccleſ. 10.19. that is, All that can be procured by it; and 'tis (on the ſame ground) as true reciprocally, that <hi>every thing anſwers money,</hi> which by its ſale can procure it: So that my Horſe is my mo<g ref="char:EOLhyphen"/>ney (ſo much as it is worth) and my mo<g ref="char:EOLhyphen"/>ney is my Horſe (ſo much as will buy one): If therefore I let my horſe to hire, I may his price as well: The <hi>Servant</hi> is ſaid to be a mans <hi>mony, Exod.</hi> 21.21. that is, the pur<g ref="char:EOLhyphen"/>chaſe of his money; if therefore he that em<g ref="char:EOLhyphen"/>ploys my ſervant muſt pay me for it, why not for the employment of ſo much money as did buy him? But this is more plain. v. 19.
+<pb n="8" facs="tcp:32984:7"/>Where the maimed perſon, beſides for his healing, was to be ſatisfied for the <hi>loſs of his time: He ſhall pay for the loſs of his time;</hi> in <hi>Hebrew</hi> 'tis <hi>for his ceaſing;</hi> i.e. from his work whereby he might have gained profit. So then <hi>Lucrum ceſſans,</hi> (gain ceaſing) is to be compenſated with money: The loſs of my time is the loſs of my money, which muſt be in equity paid for; but the abſence of my money is the loſs of my time, which ſhould be employed about it.</p>
+            <p>The <hi>profit</hi> therefore of <hi>loan,</hi> (in its moſt proper ſenſe) being <hi>only</hi> to the <hi>Borrower,</hi> 'tis the lenders <hi>gift</hi> of ſo much, as the profit of the loan comes to: If therefore (with due cirumſtances conſidered) one can law<g ref="char:EOLhyphen"/>fully give his own, and another as lawfully receive the gift (gift and loan being in ef<g ref="char:EOLhyphen"/>fect the ſame): Then the contract of lend<g ref="char:EOLhyphen"/>ing and borrowing, and by conſequence owing ſomething, is in its own nature law<g ref="char:EOLhyphen"/>ful.</p>
+            <p n="2">2. Debt is not only <hi>lawful</hi> in it ſelf, but it is ſometimes even <hi>neceſſary,</hi> at leaſt honeſtly <hi>very expedient,</hi> in the way of ordinary Com<g ref="char:EOLhyphen"/>merce. As,</p>
+            <p n="1">1. In <hi>merchandizing</hi> (which is buying and ſelling): This cannot ſometimes be well performed without it; for we have not al<g ref="char:EOLhyphen"/>ways
+<pb n="9" facs="tcp:32984:7"/>the convenience to pay, when we have the opportunity to buy: Now if every man, to avoid debt, were bound to forbear buying till he had ſufficient money in hand; there would be little buying, and ſo the pri<g ref="char:EOLhyphen"/>zes of commodities unreaſonably fall, or moſt of (if not all) the running caſh of a Nation would be imbargo'd to the publick damage, as well as the private loſs, by the dead-lying of ſo much uſeleſs money.</p>
+            <p n="2">2. In things abſolutely <hi>neceſſary for life,</hi> (as Food. Raiment, and Houſe-room) if preſent neceſſity require them forthwith to be had, and we have a reaſonable proſpect of a fu<g ref="char:EOLhyphen"/>ture capacity to pay for them, what can (in this caſe) be done but going on ſcore (which is debt), or borrowing of money for the preſent occaſion? A Friend in his Journey may come and occaſion our <hi>lend<g ref="char:EOLhyphen"/>ing three loaves at midnight,</hi> Luke 11.5.</p>
+            <p n="3">3. In <hi>ſmall bargains,</hi> when we cannot change money, or in ſuch places where <hi>money is ſcarce,</hi> and men are forced to barter: Putting to account (which is debt) is ne<g ref="char:EOLhyphen"/>ceſſary, till time convenient for ſtating and ballancing the accounts.</p>
+            <p n="4">4. In <hi>great bargains,</hi> and ſetling Eſtates; which cannot be parcelled out juſt equal to ones caſh, or to pay every debt at the ſame time: In ſuch caſes, we contract a debt to
+<pb n="10" facs="tcp:32984:8"/>ſecure the title, which we honeſtly pay after by degrees out of the profits of the bargain or land, as they will ariſe; which if it ſhould not be, it would ruin mens <hi>trade</hi> or <hi>Eſtates.</hi>
+            </p>
+            <p>And therefore, ſeeing the Scripture is gi<g ref="char:EOLhyphen"/>ven for mens good, it cannot be ſuppoſed to forbid that which is ſo neceſſary and conve<g ref="char:EOLhyphen"/>nient for them.</p>
+            <p n="3">3. Nay, rather the <hi>Scripture gives counte<g ref="char:EOLhyphen"/>nance</hi> hereunto, and that in divers Particu<g ref="char:EOLhyphen"/>lars. As,</p>
+            <p n="1">1. The Scripture <hi>commands</hi> us to lend. Deut. 15.7. <hi>&amp;c. If there be a poor man, one of thy brethren</hi> (i. e. a <hi>Jew) thou ſhalt not harden thy heart, nor ſhut thy hand from thy poor brother,</hi> v. 8. <hi>But thou ſhalt open thy hand wide unto him, and ſhalt ſurely lend him ſufficient for his need.</hi> Oh but the Year of releaſe is drawing near, and I ſhall loſe my money: He'l not pay me till then, and then he will be quit, (as <hi>v.</hi> 12.) To prevent this ſort of reaſoning, 'tis added, v. 9. <hi>Beware, that there be not a thought in thy wick<g ref="char:EOLhyphen"/>ed heart, ſaying, the year of releaſe is at hand, and thine eye be evil againſt him, and thou gi<g ref="char:EOLhyphen"/>veſt him nought, and he cry to the Lord — and it be ſin unto thee.</hi> v. 10. <hi>Thou ſhalt ſurely give him, and thine heart ſhall not be grieved
+<pb n="11" facs="tcp:32984:8"/>when thou giveſt him,</hi> &amp;c.</p>
+            <p>Here we may note, That lending is com<g ref="char:EOLhyphen"/>manded; that giving (the profit of a loan) and lending is the ſame; that not only the matter (without excuſe) but the manner (without grudging or grieving) is required; and therefore the contrary will be ſin to him that does it.</p>
+            <p>As <hi>Moſes</hi> thus taught his Diſciples, ſo does our Saviour teach his, Luke 6.35, 36. <hi>Sinners lend to ſinners to receive as much again; hut love ye your enemies; do good and lend, ho<g ref="char:EOLhyphen"/>ping for nothing again.</hi> Nothing? What not the Principal? Yea, doubtleſs the lent Princi<g ref="char:EOLhyphen"/>pal might be looked for again, or elſe it were an abſolute gift, and not lending; but the <hi>nothing</hi> here ſignifies nothing of the profits of the loan, or elſe it were the <hi>uſurious con<g ref="char:EOLhyphen"/>tract,</hi> and not the merciful <hi>lending</hi> here re<g ref="char:EOLhyphen"/>quired. Make it not your only motive to lend (as ſinners do) hoping to receive as much again: That is, the like kindneſs up<g ref="char:EOLhyphen"/>on occaſion at another time, when they are able to lend and you need to borrow; but in a Chriſtian Benignity, and in obedience to the command, with expectation only of Gods future reward, and <hi>your reward ſhall be great;</hi> And in a Conformity to the Commander and Rewarder, <hi>and ye ſhall be the children of the higheſt, for he is kind unto the unthankful,
+<pb n="12" facs="tcp:32984:9"/>and to the evil; be ye therefore merciful as your father is merciful.</hi>
+            </p>
+            <p>The ſcope of this, and that which goes before, is (not to contemn your propriety, as of no value; not to ſatisfie the Rapaci<g ref="char:EOLhyphen"/>ous, who would ſoon borrow all that you have; nor to maintain the idle or Riotous, who would willingly ſpend upon others la<g ref="char:EOLhyphen"/>bours, but) to relieve Gods poor, or ſuch as are made poor by Gods Providence, without their notorious fault; then (tho thy perſo<g ref="char:EOLhyphen"/>nal enemies) thou ſhalt help them: If his neceſſities be great, that he hunger or thirſt, <hi>give</hi> him meat and drink for his preſent ſuſte<g ref="char:EOLhyphen"/>nance in life; if not altogether ſo great, then exerciſe thy Goſpel-ſpirit of kindneſs and Mercy, by lending, as his need requires, others known needs conſidered, and thy A<g ref="char:EOLhyphen"/>bility with Chriſtian Prudence will allow.</p>
+            <p>Hitherto alſo refer that moderation in ta<g ref="char:EOLhyphen"/>king ſecurity required, <hi>Deut.</hi> 24.10, 11. Where they are forbidden to enter into the Debtors <hi>houſe for the pledg,</hi> but were to <hi>ſtand without</hi> and receive it at his hand. Thus the Scripture (you ſee) commands lending.</p>
+            <p n="2">2. The Scripture that commands lending, <hi>commends</hi> the Lender, Pſal. 37.26. Of the Righteous Man 'tis ſaid, <hi>He is merciful and lendeth, and his ſeed is bleſſed:</hi> And in 112.5. <hi>A good man ſheweth favour, and lendeth; he
+<pb n="13" facs="tcp:32984:9"/>will guide his affairs with diſcretion.</hi> That is, 'Tis the Character of a righteous and good man, that he is merciful and ready to ſhew favour; this he exerciſes and manifeſts in lending; only as in all his affairs, ſo eſpecial<g ref="char:EOLhyphen"/>ly in this matter, he <hi>uſes his diſcretion.</hi> This place compared with Matth. 5.42. <hi>From him that would borrow of thee, turn thou not away;</hi> will help to explain it: He is ever-merciful, tho he does not ever lend; He is always good, and therefore in hardneſs of heart never turneth away from the Borrower; but yet tho his heart be open, his diſcretion may ſometimes hold his hand, or direct it to other objects; with diſcretion or judgment he ſheweth favour to the diſtreſſed.</p>
+            <p>Now ſince <hi>lending</hi> and <hi>borrowing</hi> are ſuch reciprocal relatives, as never to be ſeparated; the one (with due circumſtances) being commanded and commended, the other cannot be abſolutely diſapproved, but is at leaſt allowed if true need require. Yea,</p>
+            <p n="3">3. The <hi>uſurious contract,</hi> which has been more queſtioned, and is called (tho impro<g ref="char:EOLhyphen"/>perly) lending, (as is before noted) was permitted to be made with a ſtranger, Deut. 23.20. <hi>Unto a ſtranger thou mayest lend upon uſury, but unto thy brother thou ſhalt not lend up<g ref="char:EOLhyphen"/>on uſury.</hi> The reaſon of this reſtriction as to a brother, was (I conceive) eſpecially,
+<pb n="14" facs="tcp:32984:10"/>that the <hi>Jews</hi> might be preſerved in their inheritances, the better to diſtinguiſh Tribes and Families, whereby the Genealogy of the <hi>Meſſiah</hi> might be cleared; and therefore di<g ref="char:EOLhyphen"/>vers of the Judicial Laws looked this way, amongſt which this may be reckoned as one. But had uſury been in it ſelf unjuſt, or un<g ref="char:EOLhyphen"/>lawful, then to have taken it of a ſtranger had croſſed other laws, ſuch as forbad to <hi>vex or oppreſs</hi> the ſtranger, <hi>Exod.</hi> 22.21, 23, 29. Yea, in point of Juſtice and chari<g ref="char:EOLhyphen"/>ty, the ſame required to a ſtranger, as to a Brother, Levit. 19 33, 34. <hi>If a ſtranger ſo<g ref="char:EOLhyphen"/>journ with you in your land, ye ſhall not vex him, but the ſtranger that dwelleth with you, ſhall be unto you as one born among you, and thou ſhalt love him as thy ſelf. A ſtranger poor, and faln to decay,</hi> was to be <hi>relieved, that he may live with thee,</hi> Chap. 25.35. As to matter of juſtice, whether diſtributive, or commuta<g ref="char:EOLhyphen"/>tive, there was to be <hi>one manner of Law</hi> to both Stranger, and home-born, <hi>Lev.</hi> 24.16, 22. and <hi>Numb.</hi> 15.15, 16. Yea the curſe was denounced againſt him that <hi>perverted the Judgment of the ſtranger,</hi> Deut. 27.19. Had uſury been againſt common equity, and a thing in it ſelf unjuſt, it muſt doubtleſs have proved a great ſcandal to the <hi>Gentiles,</hi> and a prejudice againſt the <hi>Jewiſh</hi> Religion; yea diſhonour to the God of <hi>Iſrael</hi> as partial, as
+<pb n="15" facs="tcp:32984:10"/>ſecuring by law the intereſt of his people, and expoſing others to unrighteous dealings. A farther evidence of its being a judicial law, which condemns it, and peculiar to that Common-Wealth, may be this; That we find it no where faulted in the New Te<g ref="char:EOLhyphen"/>ſtament; yea, 'tis not improbable, that our Saviours <hi>Parable of the Talents,</hi> gives allow<g ref="char:EOLhyphen"/>ance thereunto, <hi>that I might have received my own with uſury.</hi> He ſeems to intimate not only a common cuſtom but a common right, in that he mentions it without re<g ref="char:EOLhyphen"/>buke; 'twas otherwiſe in the Parable of the <hi>unjuſt ſteward:</hi> Where tho he commends his Wiſdom, yet he <hi>notes his injuſtice.</hi>
+            </p>
+            <p>Therefore ſuch places (in the Old Te<g ref="char:EOLhyphen"/>ſtament) as ſeem to ſpeak againſt Uſury, are to be underſtood either of that which was cruel and <hi>biting</hi> (as the word imports) or received of the poor, contrary to <hi>Exod.</hi> 22.25. which ſeems to be a moral law; or againſt the afore-mentioned, expreſs judicial law, not to take <hi>of a brother.</hi> And indeed this ſeems to be that grievous ſcandal intimated, Jer. 15.10. <hi>I have neither lent upon uſury, nor taken upon uſury, and yet the people curſe me.</hi> Some <hi>Jews,</hi> 'tis likely, in his time as well as in <hi>Ne<g ref="char:EOLhyphen"/>hemiahs,</hi> did oppreſs in this kind; ſo as the poor afflicted cried out upon it, and upon all perſons that had any thing to do there<g ref="char:EOLhyphen"/>with,
+<pb n="16" facs="tcp:32984:11"/>as well the payers, as the receivers thereof.</p>
+            <p>Now if this <hi>lending for advantage</hi> be not unlawful, then much leſs is the lending out of love and bounty; and by conſequence its neceſſary correlate, the anſwerable borrow<g ref="char:EOLhyphen"/>ing out of need can no wiſe be blamed, tho perhaps the occaſion of the need may be ſo.</p>
+            <p n="4">4. The <hi>Apoſtle himſelf,</hi> who gives the pro<g ref="char:EOLhyphen"/>hibition in the Text, puts himſelf <hi>in debt</hi> by being ſurety for <hi>Oneſimus,</hi> Philem. 8. <hi>If he hath wrong'd thee, or oweth thee ought, put that on mine account.</hi> To put it on his account, was to make him debtor for it until the account ſhould be ſtated and diſcharged.</p>
+            <p n="5">5. Gods People have been <hi>bid to borrow;</hi> as of the <hi>Egyptians,</hi> Ex. 2.3. — 11.2. In this tho there were ſomething extraordinary, God intending to give them all that was lent; Yet in that he did not bid them (as he might) privily, or by what means ſoever, to get the poſſeſſion of thoſe Jewels, and take all they could lay hands on; but only plainly and fairly to borrow them, they (not knowing the Counſels of God) intending, probably, to reſtore them again; it ſhews the borrow<g ref="char:EOLhyphen"/>ing in it ſelf, and on ſpecial occaſions, to be neither diſhoneſt nor diſhonourable. So the Woman in 2 Kings 4.3. Was <hi>bid to borrow</hi>
+               <pb n="17" facs="tcp:32984:11"/>Veſſels, when the Oyl was to be multiplyed, beyond all thoſe ſhe had in the Houſe: <hi>Go borrow thee veſſels abroad of all thy neighbours, even empty veſſels; Borrow not a few.</hi>
+            </p>
+            <p n="6">6. Gods People <hi>have been borrowers</hi> with<g ref="char:EOLhyphen"/>out blame; as the <hi>Woman</hi> laſt mentioned; the <hi>Iſraelites</hi> of the <hi>Egyptians, Exod.</hi> 12.35. So the <hi>Prophets Sons,</hi> concerning the Axe; <hi>Alas, maſter, for it was borrowed,</hi> 2 Kings 6.5. So of the <hi>poor Jews,</hi> Nehem. 5.4. <hi>There were alſo that ſaid, We have borrowed money for the Kings Tribute, and that upon our lands and vineyards.</hi> They were fain to mort<g ref="char:EOLhyphen"/>gage their Eſtates, which was deplorable, not culpable, their miſery but not their ſin.</p>
+            <p n="7">7. Yea borrowing may be and ordinarily is with deſign of mutual compenſation, and ſo is a part of brotherly kindneſs, and good neighbourhood. 'Tis ſcarce poſſible for any perſon or family, to be always provided for every occaſion; mutual ſupply is therefore neceſſary, and is one of the ends of cohabi<g ref="char:EOLhyphen"/>tation: Therefore <hi>better is a neighbour that is near, than a brother that is far off,</hi> Prov. 27.10. The condition of a perſon is often ſuch, as needs not a gift, tho a preſent ſupply; in ſuch caſe borrowing is the moſt expedite way; which implies a confidence in our neighbours good will, with a purpoſe to do
+<pb n="18" facs="tcp:32984:12"/>him the like kindneſs on occaſion: And in<g ref="char:EOLhyphen"/>deed there is often acknowledged a kind<g ref="char:EOLhyphen"/>neſs in a will to <hi>be beholding,</hi> as well as <hi>to ob<g ref="char:EOLhyphen"/>lige.</hi>
+            </p>
+            <p>Theſe things conſidered will, I think, ſuf<g ref="char:EOLhyphen"/>ficiently evince, that all kind of borrowing or owing is not unlawful, or forbidden in the Text. At moſt, the thing is in it ſelf but indifferent, and may be circumſtantiated to be a laudable good.</p>
+            <p>And thus much of lawful, and <hi>allowable owing,</hi> yea, ſometimes <hi>eligible, as a good</hi> ne<g ref="char:EOLhyphen"/>ceſſary, or convenient thing.</p>
+            <p n="2">2. Beſides this, there is an <hi>evil owing</hi> warned againſt here in this Scripture, <hi>Owe nothing to any man.</hi> This ſhould be avoided for that which makes it blameable, and doth too often accompany debts, namely, the e<g ref="char:EOLhyphen"/>vils of <hi>ſin,</hi> and of <hi>ſorrow.</hi>
+            </p>
+            <p n="1">1. <hi>Sin</hi> is frequently the cauſe and Compa<g ref="char:EOLhyphen"/>nion of debt, where the Debtors are <hi>careleſs treacherous, proud,</hi> or <hi>preſumptuous.</hi>
+            </p>
+            <p n="1">1. The <hi>careleſs</hi> Debtor is he, who runs in<g ref="char:EOLhyphen"/>to debt from a heedleſs inconſideration of the woful conſequences; he is herein guilty of a double vice, <hi>prodigal Imprudence.</hi> Such owing is a wretched diſregard of ones Eſtate and an ill husbanding the Talents where with God has been pleaſed to entruſt him
+<pb n="19" facs="tcp:32984:12"/>yea, a taking thoſe of others into his hands, when he cannot give a good account of his own. This is found in ſuch fooliſh and vain per<g ref="char:EOLhyphen"/>ſons as do either,</p>
+            <p n="1">1. Not conſider the <hi>bounds</hi> of their <hi>Eſtates,</hi> to compare them prudently with their Ex<g ref="char:EOLhyphen"/>pences; but are ſottiſhly profuſe to ſatisfie a humour or fancy, ne're thinking whether their ſtock is able decently to afford it.</p>
+            <p n="2">2. Run into <hi>groundleſs ſuretyſhip:</hi> I ſay, <hi>groundleſs;</hi> for in this it muſt be ſaid (as was of debt) there is a <hi>good</hi> and an <hi>evil</hi> ſurety<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p>To make this appear, we muſt conſider the nature of the thing; ſuretyſhip is an En<g ref="char:EOLhyphen"/>gagement or Contract, that another ſhall pay his debt, or we will pay it for him; or it is an aſſuming the debt, at leaſt, the haz<g ref="char:EOLhyphen"/>zard upon our ſelves. And this is either,</p>
+            <p n="1">1. <hi>Well-grounded;</hi> as when we duly weigh all circumſtances of <hi>our ſelves,</hi> and the <hi>perſon</hi> for whom we compound. And as to both,</p>
+            <p n="1">1. The <hi>Motive</hi> or <hi>Obligation,</hi> which may encline us to do it: Such are drawn either from <hi>near Relation,</hi> or <hi>equal friendlineſs</hi> in time paſt ſhewn, or with good reaſon expect<g ref="char:EOLhyphen"/>ed for the <hi>future;</hi> or elſe for ſome eminent <hi>publick good.</hi>
+            </p>
+            <pb n="20" facs="tcp:32984:13"/>
+            <p n="2">2. The <hi>ability</hi> and <hi>fidelity</hi> of the <hi>perſon</hi> for whom we are bound; as alſo our <hi>own ability</hi> well to bear the burden in caſe it ſhould fall upon us.</p>
+            <p>Now theſe things well conſidered, there may be ſometime reaſon for us to <hi>give</hi> to the party, for whom bound, ſo much as the debt comes to, if need ſhould require; or the <hi>hazzard</hi> may reaſonably be thought ſo <hi>little,</hi> that we need not in a ſober Judgment fear it ſhould fall upon us. Of the former ſort are ſuretyſhips for a <hi>Father,</hi> a <hi>Brother,</hi> or one that has done us a great, real, and e<g ref="char:EOLhyphen"/>qually valuable <hi>kindneſs;</hi> as alſo Bonds for <hi>Apprentices</hi> nearly related to us; or for ſuch a one entring into a <hi>profitable office,</hi> where the Truſt requires a Security: Of the latter, are Bonds of <hi>Recognizance,</hi> to appear, or be of the <hi>behaviour,</hi> for a Perſon that is not like to break it, or ſtart aſide, and ſo make a for<g ref="char:EOLhyphen"/>feiture; eſpecially if it be of publick con<g ref="char:EOLhyphen"/>cern, that the Perſon for whom bound, ſhould retain his liberty. Theſe and ſuch like ſuretyſhips are not only <hi>allowable,</hi> but may be ſometimes a <hi>neceſſary duty;</hi> eſpecially in ſome conſtitutions of Government, where ſuch ſecurities are frequently required.</p>
+            <p>And therefore 'tis unnatural and unchriſti<g ref="char:EOLhyphen"/>an to make <hi>vows</hi> and praeengagements, to a Wife, or the like, <hi>never to be bound for any
+<pb n="21" facs="tcp:32984:13"/>man</hi> (as ſome have done): And it were but juſt, that ſuch a one ſhould be excluded the help of all mankind, if he ſhould fall under ſuch a neceſſity, as ſhould require a ſurety: and truly neither Faith nor Reaſon can aſ<g ref="char:EOLhyphen"/>ſure any man to the contrary: <hi>He that will have friends, muſt be friendly,</hi> Prov. 18.24. And thus much for <hi>Suretyſhip</hi> as <hi>well ground<g ref="char:EOLhyphen"/>ed.</hi>
+            </p>
+            <p n="2">2. But there is alſo a <hi>groundleſs ſuretyſhip,</hi> which is often repreſented in Scripture as very <hi>blameable,</hi> and this under Three Cha<g ref="char:EOLhyphen"/>racters.</p>
+            <p n="1">1. For a <hi>friend</hi> (or at leaſt one ſo called by way of excuſe) out of a <hi>fooliſh good na<g ref="char:EOLhyphen"/>ture,</hi> without weighing circumſtances.</p>
+            <p>'Tis commonly done by ſuch <hi>ſilly perſons</hi> as are eaſily coaxed and impoſed upon; or ſuch <hi>Prodigals,</hi> as are apt to run themſelves into a neceſſity of the like kindneſs: Or laſt<g ref="char:EOLhyphen"/>ly and moſt uſually, by <hi>drunken companions,</hi> when their liquor has laid their diſcretions aſleep. We commonly ſee that fudling fellows have their ſeveral humors in their cups: ſome ate <hi>maudlins</hi> and weep: ſome are <hi>Hectors,</hi> ſwagger and quarrel; and ſome are monſtrous <hi>loving and kind;</hi> now theſe of the latter ſort are the fooliſh men, that uſual<g ref="char:EOLhyphen"/>ly do involve themſelves by ſuretyſhip. I
+<pb n="22" facs="tcp:32984:14"/>make bold to call them <hi>fooliſh,</hi> becauſe the Scripture does ſo too: <hi>A man void of under<g ref="char:EOLhyphen"/>ſtanding striketh hands, and becometh a ſure<g ref="char:EOLhyphen"/>ty in the preſence of his friend,</hi> Prov. 17.18. He is taken as a ſilly bird in a ſnare, from which he is adviſed to get out as ſoon, and as well as he can, Prov. 6.1, &amp;c. <hi>If thou be ſurety — thou art ſnared, thou art taken with the words of thy mouth. Do this now, my ſon, and deliver thy ſelf when thou art come into the hand of thy friend; go, humble thy ſelf, and make ſure of thy friend. Give not ſleep to thine eyes, nor ſlumber to thine eyelids. De<g ref="char:EOLhyphen"/>liver thy ſelf as a roe — and as a bird from the hand of the fowler.</hi> The <hi>name</hi> of Love and Friendſhip is the fair bait that allures this heedleſs bird into the dangerous ſnare; the <hi>appearance</hi> of pleaſant and green paſture, that leads the inconſiderate Roe into the de<g ref="char:EOLhyphen"/>ſtructive toils: I ſay the meer <hi>name</hi> and <hi>ap<g ref="char:EOLhyphen"/>pearance,</hi> for there is no true love or friend<g ref="char:EOLhyphen"/>ſhip, but of good men, from good Principles, and upon good grounds; in all other, cour<g ref="char:EOLhyphen"/>teſie is much craft; and deſign manages moſt of the kindneſs of the world.</p>
+            <p n="2">2. For a ſtranger, where there is neither natural tye, nor ſufficient acquaintance in thoſe things that are neceſſary to be known in this affair: Of ſuch a one 'tis ſaid, <hi>He ſhall ſmart for it;</hi> or (as in the original) <hi>be
+<pb n="23" facs="tcp:32984:14"/>ſore broken,</hi> Prov. 11.15. Like the breaking of a bone, which not only diſables, but ex<g ref="char:EOLhyphen"/>treamly pains.</p>
+            <p>'Tis not unuſual to hear men lament, that their Eſtates are broken by others debts, or which they never did eat or drink; and that it ſhould not ſo much have troubled them had it been their own The ſenſe and re<g ref="char:EOLhyphen"/>membrance of their folly adds to their mi<g ref="char:EOLhyphen"/>ſery. Thus they think of themſelves. Be<g ref="char:EOLhyphen"/>ſides which, the Holy Ghoſt ſhews, how o<g ref="char:EOLhyphen"/>thers ought to think of them; namely, That they are people <hi>no ways to be truſted. Take his garment, that is ſurety for a ſtranger, and take a pledg of him for a ſtrange woman,</hi> Pro. 20.16. The ſame words are repeated, ch. 27.13. Not as an overſight of the Pen<g ref="char:EOLhyphen"/>man, but as a thing well to be remembred. The meaning is, they that are given to <hi>Sure<g ref="char:EOLhyphen"/>tyſhip,</hi> and <hi>Whoredom,</hi> are no more to be truſted than the wretched <hi>Gameſters,</hi> who to day are full of Caſh, and to morrow Bank<g ref="char:EOLhyphen"/>rupt; ſo uncertain are their eſtates, that they cannot be valued, and they may ſoon undo themſelves, and others with them.</p>
+            <p n="3">3. Cuſtom in theſe follies renders them worſe. There are ſome wary men, that at a certain time may be caught; but there are others, who make a common practice of it. Of being one of theſe the Scripture cautions,
+<pb n="24" facs="tcp:32984:15"/>Prov. 22.26, 27. <hi>Be not thou one of them that ſtrike hands, or of them that are ſureties for debts. If thou haſt nothing to pay, why ſhould he take away thy bed from under thee?</hi> What reaſon have men to run ſuch hazzards as not to have a bed left to lye upon?</p>
+            <p>And thus much of the <hi>careleſs debtor</hi> ſo far as concerns himſelf: But here ſomething may properly be added concerning the <hi>Cre<g ref="char:EOLhyphen"/>ditors</hi> of ſuch Debtors. Know therefore, if their debt be their ſin, men had need take care how they become <hi>partakers</hi> thereof. <hi>Lay hands</hi> (ſays the Apoſtle) <hi>ſuddenly on no man, neither be thou partaker of other mens ſins. Keep thy ſelf pure,</hi> 1 Tim. 5.22. He cautions <hi>Timothy</hi> of partiality and raſhneſs in ordain<g ref="char:EOLhyphen"/>ing men to the Miniſtry; they perhaps un<g ref="char:EOLhyphen"/>furniſhed with due qualifications, thruſt themſelves forward, and unwarrantably de<g ref="char:EOLhyphen"/>ſire to be admitted into the ſacred office; this preſumption is their ſin; but take thou heed that by thy allowance, and concurrence, thou draw not ſome of the guilt upon thy ſelf. So may I ſay in the preſent caſe: Lend not, give not credit, receive not into Bonds, raſhly and inconſiderately, one who may inconſiderately deſire, or raſhly yield to be a debtor; leſt thou partake in his ſin, and contribute thy helping hand to his ruin; keep thy ſelf pure in this reſpect; have nothing
+<pb n="25" facs="tcp:32984:15"/>to do in this matter: As <hi>Jeremiah</hi> was nei<g ref="char:EOLhyphen"/>ther lender nor borrower in oppreſſive uſury, ſo be thou neither lender nor borrower in fooliſh and careleſs debt. He that <hi>puts his bot<g ref="char:EOLhyphen"/>tle to his neighbours mouth,</hi> is guilty of his drunkenneſs; <hi>woe unto him,</hi> ſaith the Prophet, <hi>Hab.</hi> 2 15. He that giveth to an idle Begger nouriſheth the idleneſs more than the man; ſo he that lends to a careleſs prodigal cheriſh<g ref="char:EOLhyphen"/>eth his prodigality more than him. If you put a ſword into a madmans hand, he may kill himſelf, but his blood will be required at your hands who gave him the opportu<g ref="char:EOLhyphen"/>nity. O remember you are your brothers keeper, as to his Eſtate, as well as his life. I have heard it ſaid concerning ſome perſons, That they deſerved hanging for lending mo<g ref="char:EOLhyphen"/>ney, becauſe of the publick damage that ac<g ref="char:EOLhyphen"/>crued thereby; whether theſe ſevere Judges were out in their politicks, or in their infor<g ref="char:EOLhyphen"/>mations, we need not now farther enquire; however thus far in the general I am of their minds, That a lender may divers ways be ac<g ref="char:EOLhyphen"/>ceſſary to all the miſchiefs that follow there<g ref="char:EOLhyphen"/>upon; nor will the importunity of the bor<g ref="char:EOLhyphen"/>rower, nor the love, kindneſs, and reſpects pretended by the lender, ſolve the matter: But if the loan or credit given, be with deſign to ſerve ones own turn, 'tis an egregious cheat, the bubling of a cully, and notorious
+<pb n="26" facs="tcp:32984:16"/>villany covered over with curteſie.</p>
+            <p>I have the rather enlarged on this ſubject, becauſe the lenders have commonly more of their heads about them, than the witleſs bor<g ref="char:EOLhyphen"/>rowers, and therefore are more obliged to think what they do: Which if men would conſcientiouſly conſider, it might ſtop the gap on that ſide of the hedg, and prevent a great deal of miſchief that comes by <hi>careleſs borrowing.</hi>
+            </p>
+            <p n="2">2. Another ſinful debtor is the <hi>treacherous debtor,</hi> who contracts debts with deſign to make his own advantage of others loſs, or extream hazzard. Such are the <hi>gentiler ſort of beggars,</hi> who being too proud or aſhamed to ask an alms, call it borrowing of what they never intend to pay: This if it be known or ſuppoſed by the lender, may paſs with him only as a <hi>proud beggary,</hi> and accord<g ref="char:EOLhyphen"/>ingly repayment is not expected by him. But worſe is that of ſome Gentlemen, who having their <hi>Eſtates entailed,</hi> do draw in, or awe in their tenants or inferior neighbours, to lend, or be bound for them in ſuch ſums as their annual income for life, compared with the rate of their expences, is never like to ſatisfie. Such alſo are ſome <hi>traders,</hi> who drive their trades only or chiefly upon Cre<g ref="char:EOLhyphen"/>dit, without a true diſcovery of their con<g ref="char:EOLhyphen"/>ditions to the Creditor, that ſo if he lend or
+<pb n="27" facs="tcp:32984:16"/>truſt, he may do it out of <hi>friendſhip,</hi> and not a <hi>miſtake:</hi> This tho it end not always in a loſs, yet is always a great hazzard to the re<g ref="char:EOLhyphen"/>al owner, without his conſent. Worſe a<g ref="char:EOLhyphen"/>gain than theſe are they who contract as many debts as they can, with deſign to <hi>break and compound,</hi> or run away. Of the ſame rank are thoſe that embezzle what they are entruſted with; or ſuch as take to their own uſe whatever they can lay hand of, and then pretend borrowing, when they are diſ<g ref="char:EOLhyphen"/>covered.</p>
+            <p>All theſe may be truly accounted <hi>thieves</hi> and <hi>robbers,</hi> rather than debtors, altho per<g ref="char:EOLhyphen"/>haps civil laws take not hold of them as ſuch; for 'tis getting poſſeſſion of anothers goods without the knowing conſent of the true ow<g ref="char:EOLhyphen"/>ner; and this is no other than theft in the Court of Conſcience, tho the Courts of Judicature may call it only a cheat. But if men have no conſcience to be awakened by theſe conſiderations, let them think of one Motive from their worldly intereſt, and that is, That they that defraud others, may expect ſome time or other to be defrauded themſelves: for <hi>if you have not been faithful in that which is an other mans, who ſhall give you that which is your own?</hi> Luke 16.12.</p>
+            <p n="3">3. Another ſinful Debtor is the <hi>proud bor<g ref="char:EOLhyphen"/>rower,</hi> who would ſeem to be richer than he
+<pb n="28" facs="tcp:32984:17"/>is, only to <hi>live high,</hi> and make a buſtle in the world. Such ſcorn their own condition, where<g ref="char:EOLhyphen"/>in Gods Providence has put them, and are diſ<g ref="char:EOLhyphen"/>content with him for his allowance. But this wicked pompous way of living, by the juſt judgment of God, and the righteous ſentence of humane laws, commonly (even in this world) ends in miſery; when the ruffler in his youth, ſhall in, or before his age, lye and rot in a Goal, and his bones (as 'tis called) make dice to the diſgrace of his name and memory.</p>
+            <p n="4">4. The laſt I ſhall at preſent mention is the <hi>preſumptuous,</hi> and <hi>covetous</hi> borrower: I put them both together, becauſe they are uſually conjoined: Theſe are ſuch as have ſtronger fancies than judgments: Vehement inclinations without due conſideration of poſſible &amp; not altogether improbable events. Theſe without ſufficient reaſon promiſe to themſelves mountains of advantage, and therefore ſtretch their credits to the utmoſt to ſatisfie their rapacious deſire, or gratifie their humour. Such are the high adventu<g ref="char:EOLhyphen"/>rers either in trade or game, far above what their ſtock will bear in caſe of a diſappoint<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Theſe do highly tempt and provoke God; and it is very uſual in his holy Providence to croſs ſuch confidences, and blaſt their great
+<pb n="29" facs="tcp:32984:17"/>projects and deſigns; and to make them ſee (tho oftentimes too late) their egregious folly; their folly at leaſt (if there be no knavery in the bottom) in their <hi>all-coveting</hi> and <hi>all-loſing.</hi>
+            </p>
+            <p>Now all theſe kinds of debt (<hi>careleſs, trea<g ref="char:EOLhyphen"/>cherous, proud, preſumptuous,</hi> and <hi>covetous</hi>) are <hi>ſin,</hi> and the <hi>cauſe of ſin.</hi>
+            </p>
+            <p n="1">1. <hi>Sin,</hi> either as they tempt God, or wrong men, when there is not care or intention to pay. <hi>The wicked borroweth and payeth not a<g ref="char:EOLhyphen"/>gain</hi> Pſ. 37.21. The Providence of God indeed, does by loſſes extraordinary, ſometimes diſ<g ref="char:EOLhyphen"/>able an honeſt man; but then he always wills and endeavours; and if after enabled, does actually make full ſatisfaction.</p>
+            <p n="2">2. The <hi>cauſe of ſin;</hi> for debts are often the occaſion of <hi>lying, boaſting,</hi> breach of pro<g ref="char:EOLhyphen"/>miſe, &amp;c. And ſometimes grievous oppreſ<g ref="char:EOLhyphen"/>ſion of the poor; the tears of Widows and Orphans that have been wronged, will riſe up in judgment againſt ſome of thoſe deb<g ref="char:EOLhyphen"/>tors.</p>
+            <p>And thus much for the ſin of debt, for which it ſhould be conſcientiouſly avoided.</p>
+            <p n="2">2. <hi>The ſorrow of debt</hi> is another evil for which we ſhould ſtudiouſly avoid it, and carefully endeavour to <hi>owe nothing to any man.</hi> The ſorrow is commonly on the ac<g ref="char:EOLhyphen"/>count
+<pb n="30" facs="tcp:32984:18"/>of <hi>diſgrace</hi> and <hi>diſturbance.</hi>
+            </p>
+            <p n="1">1. <hi>Diſgrace:</hi> 'Tis a baſe thing to be a needleſs debtor: Sometimes it is a kind of theft (as is before noted) and this is a ſin that carries <hi>ſhame</hi> along with it. <hi>The thief is aſhamed when he is found,</hi> Jer. 2.26. So are ſuch debtors when their broken condition is diſcovered</p>
+            <p>Sometimes if it be not theft, borrowing is a beggary, which is alſo ſhameful to an ingenuous mind. 'Tis but begging the profits of the loan at leaſt; and if they intend not to pay, 'tis begging the loan it ſelf. Ma<g ref="char:EOLhyphen"/>ny ſuch gentlemen-beggers there are, and ſome of them are impudent; but tho they put off modeſty, they cannot long keep off ſhame; when men ſhall baulk and be as ſhy of them, as themſelves are of their Credi<g ref="char:EOLhyphen"/>tors.</p>
+            <p>Beſides, there are many odious and infa<g ref="char:EOLhyphen"/>mous vices, that bring men to an indigent and borrowing condition; unfaithfulneſs may forfeit a gainful truſt; idleneſs may waſte a fair eſtate, and profuſe prodigality, Riot, Whoredome, Gaming. <hi>&amp;c.</hi> may ſoon abſorp and devour great Revenues. Now when men by theſe or ſuch like crimes do come to want and borrow; their former wickedneſs more than their preſent want will
+<pb n="31" facs="tcp:32984:18"/>be taken notice of, and pointed at by the moſt: See (ſay they) this man, that was once in a proſperous condition, and ſo might ſtill have continued, had he been wiſe or ho<g ref="char:EOLhyphen"/>neſt; ſee what his ungodly courſes have brought him to. On this account (I con<g ref="char:EOLhyphen"/>ceive) were thoſe Words of the unjuſt ſteward, Luke 16.3. <hi>I cannot dig, to beg I am aſhamed.</hi> I cannot dig, as not uſed to hard la<g ref="char:EOLhyphen"/>bout; to beg, aſhamed, leſt men ſhould up<g ref="char:EOLhyphen"/>braid me with my former ſtate, and ſcorn and laugh at my folly. This kind of Pover<g ref="char:EOLhyphen"/>ty (of all others) is that which verifies the ſaying of the Poet,
+<q>
+                  <l>—Nil habet paupertas Durius in ſe,</l>
+                  <l>Quam, quod ridiculos Homines faciat —</l>
+               </q>
+            </p>
+            <p n="2">2. <hi>Diſturbance</hi> of mind and great incum<g ref="char:EOLhyphen"/>brance of thoughts, how to ſave repute, and diſcharge obligation; It is ſo uſually in all men, for that debt hath in men the reſem<g ref="char:EOLhyphen"/>blance of guilt; the guilty conſcience (for inſtance of a murderer) dogs and haunts him wherever he goes, is always afraid of vengeance, <hi>Every one that ſinds me, ſhall ſlay me</hi> (ſays <hi>Cain,</hi>) Gen. 4.14. preſents to his imagination, frightful ſpecters, and eve<g ref="char:EOLhyphen"/>ry man he meets as an avenger of blood. Very much like this are the debtors thoughts
+<pb n="32" facs="tcp:32984:19"/>embroil'd; he fancies every one that knocks at door a Creditor; every ſtranger he meets a bailiff; and if his cloak hitch accidentally in a Tenter-hook, he preſently is ready to cry out (as the ſtory goes) At whoſe ſuit? Yea ſin and debt are ſo near a kin, that the Holy Ghoſt (according to the <hi>Syrian</hi> Idio<g ref="char:EOLhyphen"/>tiſm) expreſſes one by the other, Matth. 6.12. <hi>And forgive us our debts, as we forgive our debtors,</hi> which <hi>Luke</hi> records thus, ch. 11.4. <hi>Forgive us our ſins, for we alſo forgive every one that is indebted to us.</hi> Thus in expreſs words ſin is called debt. Sometimes in Pa<g ref="char:EOLhyphen"/>rables, as that Matth. 18.24. <hi>&amp;c.</hi> Where God is ſet forth as a great King, calling his Servants to account; the great ſinner as one that <hi>ought him ten thouſand talents;</hi> the de<g ref="char:EOLhyphen"/>ſert of ſin, by being <hi>bound and ſold,</hi> v. 25. Repentance, by <hi>falling down, worſhipping</hi> and prayer, v. 26. Pardon, by <hi>looſing and forgi<g ref="char:EOLhyphen"/>ving him the debt,</hi> v. 26. Thus it is to the generality of men a trouble like the conſci<g ref="char:EOLhyphen"/>ence guilty of ſin. But more eſpecially is it grievous and perplexing to <hi>ingenuous per<g ref="char:EOLhyphen"/>ſons</hi> who have any honeſty and modeſty in them; they are vexed and aſhamed to think that they ſhould live to any others hindrance or damage; but whether it trouble them or no, 'tis a lamentable caſe, and to be debtors is uſed in Scripture as an expreſſion of a mi<g ref="char:EOLhyphen"/>ſerable
+<pb n="33" facs="tcp:32984:19"/>and diſtreſſed condition; thus <hi>Davids</hi> poor followers are ſet forth as a ſort of out<g ref="char:EOLhyphen"/>law'd perſons, 1 Sam. 22.2. <hi>Every one that was in diſtreſs, and every one that was in debt.</hi> They are (not <hi>ſui juris</hi>) ſcarce Freemen: <hi>The borrower is ſervant to the lender,</hi> Prov. 22.7. To be ſervant is not eligible Eſtate; But ſays the Apoſtle, <hi>If thou mayeſt be made free, uſe it rather,</hi> 1 Cor. 7.21. Add to this, that the <hi>Bleſſing</hi> and the <hi>Curſe</hi> are ſet forth (as by other oppoſites, ſo) by lending and borrowing; the Bleſſing, <hi>Thou ſhalt lend to many nations, and thou ſhalt not borrow,</hi> Deut. 15.6. and chap. 28.12. Whereas the curſe is, <hi>He ſhall lend to thee, and thou ſhalt not lend to him; he ſhall he the head, and thou ſhalt be the tail,</hi> ch. 28.44. Who is this <hi>He?</hi> Why 'tis the <hi>ſtranger that is within thee,</hi> v. 43. Who <hi>ſhall get above thee very high, and thou ſhalt come down very low.</hi> See alſo the poor Womans complaint, a poor Widow of a godly Miniſter, 2 Kings 4.1. <hi>A woman of the wives of the Sons of the Prophets cried to Eliſha, ſaying, Thy ſervant my husband is dead, and thou knowest that thy ſervant did fear the Lord; and the creditor is come to take unto him my two ſons to be bondmen.</hi> A lamentable caſe, unto which God ſees fit ſometimes to leave his people: Such another complaint we have of the poor <hi>Jews,</hi> Neh. 5.1. <hi>&amp;c.
+<pb n="34" facs="tcp:32984:20"/>There was a great cry of the people, and of their wives.</hi> What's the matter? Alas, they were in debt; they were fain to borrow, to take up corn (on ſcore) <hi>that they might live,</hi> their families were ſo great, and their means ſo ſmall; <hi>we, our ſons and our daughters are ma<g ref="char:EOLhyphen"/>ny,</hi> v 2. And for this to mortgage their Lands and Vineyards, v. 3. Yea, ſome <hi>bor<g ref="char:EOLhyphen"/>rowed mony to pay the Kings Tribute, and that upon their lands and vineyards,</hi> v. 4. Yea, more than that, <hi>They hereby brought their ſons and daughters into bondage, nor was it in their power to redeem them,</hi> v. 5.</p>
+            <p>What we here read is Scripture, 'tis no more than is confirmed by daily experience; and thoſe that have lain under the burden of debts do know, that this diſcourſe is not a bare fancy, or rhetorical harrangue.</p>
+            <p>And thus I have endeavoured to ſhew, in what ſenſe, and for what reaſons the Apo<g ref="char:EOLhyphen"/>ſtle adviſes, or rather commands in the name of Chriſt, to <hi>owe nothing to any man.</hi> He <hi>ad<g ref="char:EOLhyphen"/>viſes</hi> that no man ſhould in <hi>diſcretion,</hi> and <hi>commands</hi> that no man ſhould in <hi>duty</hi> run himſelf into thoſe perplexities, or continue under thoſe troubles which by Gods <hi>Pro<g ref="char:EOLhyphen"/>vidence</hi> and mans <hi>Prudence,</hi> may ordinarily be avoided.</p>
+            <p>'Tis not to be doubted, but moſt men are of opinion, <hi>'Tis better to be out of debt than to
+<pb n="35" facs="tcp:32984:20"/>lye groaning under it.</hi> All the Queſtion is, How ſhall this be accompliſhed?</p>
+            <p>I ſhall offer a little Advice; firſt, to thoſe that are in <hi>debt,</hi> and then to thoſe that are <hi>out of it.</hi>
+            </p>
+            <p n="1">1. Thoſe that are in debt ſhould endea<g ref="char:EOLhyphen"/>vour with the firſt opportunity to get out of it, and pay what you owe. <hi>Go, ſell the oil and pay thy debt,</hi> in that, 2 Kings 4.7. <hi>If you have wherewithal</hi> to diſcharge the debt, be juſt and do it; and contrive forthwith how with the beſt convenience: Satisfie not your ſelf with Wiſhes, Deſires, and Hopes, that you ſhall one day be out of debt, but ſee what at preſent you can do towards it. If you have real, or perſonal eſtate, <hi>ſell</hi> it, or <hi>ſettle</hi> it ſo as (a humble neceſſary livelyhood deducted) ſomething conſiderable may go towards ſatisfaction of your Creditors, and (as lies in your power) to make amends for all their damages; the equity is the ſame with that Exod. 22.14. <hi>If a man borrow ought of his neighbour, and it be hurt — he ſhall ſurely make it good.</hi> If damage comes, the borrower is to bear it; for if it be through <hi>your</hi> default, or the Providence of God be againſt you, why ſhould another ſuffer for it? You muſt if you will be juſt and at eaſe, retrench your expences, lower
+<pb n="36" facs="tcp:32984:21"/>your top-ſail; tuck up your affairs cloſer a<g ref="char:EOLhyphen"/>bout you; and be content not to make ſo much ſhew in the world. I know <hi>(durum eſt deſcendere)</hi> 'tis hard to come down; but the difficulty is not inſuperable: If your heart be (as it ought) honeſt and humble, and compliant with the humbling circum<g ref="char:EOLhyphen"/>ſtances you are under; you will ſay with him (in <hi>Plutarchs Morals</hi>) <hi>carebo domo, ca<g ref="char:EOLhyphen"/>rebo famulitio, ne debeam.</hi> I'le be without houſe, or ſervant, that I may be free of debt. And (as he goes on) <hi>Parinde facit, ac ſi Hydropicus, dicat medico; Ego gracilis fi<g ref="char:EOLhyphen"/>am ac Inanis; nam nihil refert, quam gracilis ſim, modo ſanus.</hi> As an Hydropic man ſays to his Phyſician, Let me be made lean and ſlender, no matter how ſlender, ſo I be ſound. Really Friends, it is far more eligible to live in a low and free condition, than to make a vain oſtentation in the world, with inward gripes and twinges, ariſing from diſhoneſty or debt. Diſhoneſty will ſting Conſcience, unleſs men by Divine Judgment are hardned to deſtruction; and (it there be nothing of that in the caſe) yet the debt it ſelf breeds ſo many anxious and diſturbing thoughts to a conſidering mind, that he can have ſmall comfort in what he does poſſeſs, or uſe, ſo long as debt, in any ſenſe (yea, tho it be but the <hi>uſurious contract</hi>) lies upon him.</p>
+            <pb n="37" facs="tcp:32984:21"/>
+            <p>Experto credas, <q>
+                  <l>Thirty Years and more</l>
+                  <l>I fully knew what 'twas to be on Score.</l>
+               </q>
+            </p>
+            <p>But if you preſently cannot make any kind of ſatisfaction; humble your ſelf both to God and man; beg of God pardon of ſin that brings you into calamity, and beg of man a reaſonable forbearance, <hi>His fellow ſervant fell down at his feet, and beſought him, ſaying, have patience, and I will pay thee all,</hi> Matth. 18.29. And withall apply your ſelf to more than ordinary induſtry, or willingly ſerve your Creditor to give him ſatisfaction. Pay what you can, and as faſt as you can; and if you cannot as you would, both God, and good men, will accept that will for the deed. To ſuch the <hi>pledg</hi> muſt be <hi>reſtored;</hi> and 'tis the character of a good man ſo to do, Ez. 18.7. Remiſſion of debts has been to men ſometimes a duty, and if ever, ſurely 'tis towards ſuch ingenuous debtors. The <hi>uſe</hi> be ſure in ſuch caſes is forbidden, Lev. 26.35, &amp;c. <hi>If thy brother be waxen poor, and fallen in decay with thee — take thou no uſury of him, nor increaſe; but fear thy God, that thy brother may live with thee.</hi> And ſometimes alſo the Principal muſt be parted with. When <hi>Nehemiah</hi> pleaded for the poor <hi>Jews</hi> in this reſpect, their Creditors <hi>held their peace and found nothing to anſwer,</hi> Neh.
+<pb n="38" facs="tcp:32984:22"/>5.8. He would have them reſtore their ſe<g ref="char:EOLhyphen"/>curities, <hi>Reſtore I pray you to them, even this day</hi> (forthwith) <hi>their lands, vineyards, o<g ref="char:EOLhyphen"/>liveyards, and houſes,</hi> which have been mortgaged to you: This I take to be the re<g ref="char:EOLhyphen"/>miſſion of their <hi>Principal, Alſo the hundredth part of the money, corn, wine, and oil, that ye exact of them,</hi> v. 11. This is alſo the <hi>intereſt</hi> (the monthly Intereſt, as ſome think) which had been taken of them in their diſtreſſed condition, to be paid back again; or (as ſome will have it) what was required as a <hi>Tax</hi> for the Governours of Provinces: Be it one or other, it was in ſtrictneſs a debt, which was now to be remitted. <hi>Then ſaid they, we will reſtore them, and will require no<g ref="char:EOLhyphen"/>thing of them,</hi> v. 12. To <hi>give</hi> or <hi>forgive</hi> to Gods poor, is to <hi>lend to the Lord,</hi> Prov. 19.27. Who will become a ſurer, and a better Pay-maſter. And this may be as truly called the <hi>Lords Releaſe,</hi> as that judicial one, in Deut. 15.2.</p>
+            <p>This our advice to debtors, does not on<g ref="char:EOLhyphen"/>ly concern thoſe debtors that are ſo by their own <hi>actual borrowing;</hi> but <hi>others alſo</hi> who are very loath to come under the rule; Such are <hi>Sureties,</hi> the <hi>Heirs</hi> of Debtors and <hi>Corporations.</hi>
+            </p>
+            <p n="1">1. <hi>Sureties,</hi> who are generally loath to
+<pb facs="tcp:32984:22"/>pay other mens debts: They that are frank and forward enough to be obliged, are backward enough when it comes to bear: But conſider, You have made the debt your own, and you muſt ſee it paid with the ſame conſcience, as if your ſelf had been the borrower; for elſe the lender may be a loſer through your default: Therefore <hi>Give not ſleep to thine eyes, nor ſlumber to thine eye<g ref="char:EOLhyphen"/>lids, till thou haſt made ſure of thy friend,</hi> in that Pro. 6.4. Prevail with him if poſſible to diſcharge the obligation; and rather help him with a part, than lye under the incum<g ref="char:EOLhyphen"/>brance of the whole.</p>
+            <p n="2">2. <hi>Heirs</hi> or Executors of Debtors, are (as to this affair) of two ſorts,</p>
+            <p n="1">1. Such as have Eſtates left them <hi>encum<g ref="char:EOLhyphen"/>bred</hi> with manifeſt and acknowledged debt. Thoſe ſhould not ſhift off matters with ſhort inventories or other unrighteous devi<g ref="char:EOLhyphen"/>ces; nor ſo much as dream of a fair Eſtate, by looking on the ſum total of what is left; but account on nothing more than what is free: The whole ſhould be honeſtly divided between himſelf and the Creditors; to whom their ſhares do as truly belong, as what is left for himſelf; and therefore ſhould be aſ<g ref="char:EOLhyphen"/>ſigned and ſet out to them, with the firſt con<g ref="char:EOLhyphen"/>venience.</p>
+            <pb n="40" facs="tcp:32984:23"/>
+            <p n="2">2. Such as ſucceed in Eſtates by <hi>entail,</hi> who thereby account themſelves free, and reckon (contrary to the old, and true ſay<g ref="char:EOLhyphen"/>ing, before mentioned, and never too often to be remembred, <hi>Right never rots</hi>) that the debt died, and was extinguiſhed with the Anceſtor. Thus perhaps the Lawyer will tell them, according to the Municipal Laws of a Land; but the Divine in point of con<g ref="char:EOLhyphen"/>ſcience has ſomewhat more to ſay, accord<g ref="char:EOLhyphen"/>ing to the Law of God; which reaches not only to <hi>perſons,</hi> but in many caſes to <hi>families</hi> and <hi>poſterities.</hi>
+            </p>
+            <p>The Children of <hi>Iſrael</hi> had a charge not to meddle with the <hi>Poſterity of Eſau; becauſe I have given Mount Seir to Eſau for a poſſeſſion,</hi> Deut. 2.5. <hi>Diſtreſs not the Moabites,</hi> v. 9. Not the <hi>Amonites,</hi> v. 19. <hi>Becauſe I have gi<g ref="char:EOLhyphen"/>ven it unto the Children of Lot for a poſſeſſion.</hi> It was not the preſent <hi>Edomites, Moabites,</hi> or <hi>Amonites,</hi> that they were to have reſpect unto, ſo much as Gods <hi>Covenant Bleſſing</hi> on their Anceſtors many Ages before. So in the matter of the <hi>Gibeonites, Joſhua</hi> and the <hi>Iſraelites</hi> made a Covenant with them, not on<g ref="char:EOLhyphen"/>ly with thoſe perſons that came with a de<g ref="char:EOLhyphen"/>ceiful ſhow of a far Country, but their po<g ref="char:EOLhyphen"/>ſterity, <hi>Joſh.</hi> 9. The breach of this was a<g ref="char:EOLhyphen"/>venged 430 years after in the days of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> 2 Sam. 21.1. <hi>There was a famine in the
+<pb n="41" facs="tcp:32984:23"/>days of David three years — and the Lord anſwered, It is for Saul and his bloody houſe, be<g ref="char:EOLhyphen"/>cauſe he ſlew the Gibeonites.</hi> The bloody houſe of <hi>Saul,</hi> ſlew the <hi>covenanted houſe</hi> of <hi>Gibeon.</hi>
+            </p>
+            <p>Now to apply this to the preſent purpoſe; Altho we have not now ſuch Divine Entails of Lands, or places of abode, ſo expreſs upon particular Families as formerly; yet under the Goſpel, <hi>Godlineſs has alſo the pro<g ref="char:EOLhyphen"/>miſes of this life,</hi> and <hi>believers children</hi> are under the merciful <hi>Covenant:</hi> And there<g ref="char:EOLhyphen"/>fore I am apt to think, That a Godly Ance<g ref="char:EOLhyphen"/>ſtor, tho he cannot convey Grace to his Po<g ref="char:EOLhyphen"/>ſterity; yet in his Time and Generation by his actual Faith, he obtains a bleſſing for them. To how many Generations this Bleſſing ſhall extend, I know not; but of this I am ſure, the <hi>Edomites</hi> for whom God now took care, were near 600 Years, from <hi>Iſaac</hi> their laſt known Godly Predeceſſor; which I thus compute; <hi>Jacob</hi> who was born with <hi>Eſau,</hi> lived 147 Years; after <hi>Jacobs</hi> death <hi>Iſrael</hi> was in <hi>Egypt</hi> 400 Year; to this add the 40 Years in the Wilderneſs, before this charge concerning the <hi>Edomites;</hi> the ſum is 587 Years: And the <hi>Moabites</hi> and <hi>Ammonites</hi> were a Generation farther off from <hi>Lot.</hi> The promiſes of Temporal Bleſſings are re<g ref="char:EOLhyphen"/>corded in theſe Scriptures; <hi>The generation
+<pb n="42" facs="tcp:32984:24"/>of the upright ſhall be bleſſed, wealth and riches ſhall he in his houſe.</hi> Pſal. 112.2, 3. <hi>The juſt man walketh in his integrity; his children are bleſſed after him,</hi> Pro. 20.7. And divers more of the ſame import: From which I am apt to infer, that (tho Dominion and Propriety as to men, are not founded in Grace; yet) ſome Families are under Gods ſpecial, Providential care, even as to things of this life, on the account of the Covenant of Grace, cloſed with by ſome one, or more of their Godly Anceſtors.</p>
+            <p>Now if it come into competition, whether thy Family ſhall be upheld by vertue of thy Anceſtors Entail; or this Family by ver<g ref="char:EOLhyphen"/>tue of the Covenant Bleſſing; and if thou invade their Propriety, and ſnatch the Stones out of their houſe to repair the breaches of thine own; I believe God will otherwiſe provide for them in a competency; when <hi>you for oppreſſing the poor, and cruſhing the needy, ſhall be taken away with hooks, and your poſterity with fiſh-hooks,</hi> Amos 4.1, 2.</p>
+            <p>But be they thus in Covenant with God or not; the Divine will farther tell you; that if for fear or through flattery, or by concealment of the Entail, or by any other <hi>indirect courſe,</hi> a Debt or Suretyſhip is con<g ref="char:EOLhyphen"/>tracted to another Families hurt or hazzard; the caſe paſſes from <hi>perſons to families,</hi> eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="43" facs="tcp:32984:24"/>where for the <hi>Families ſake</hi> the Payment is denied; and the children of the other Family to many Generations, will by their complaints through indigence ſtir up a righ<g ref="char:EOLhyphen"/>teous Judg to avenge their injury: What you thus <hi>keep back by fraud,</hi> crieth, and the cries of the oppreſſed <hi>will enter into the ears of the Lord of Sabaoth;</hi> James 5.4. A curſe will be entailed by God, that will hold ſtron<g ref="char:EOLhyphen"/>ger than mans entails; that will more ſurely deſtroy Families, than theſe will preſerve: See at large the curſe of thoſe that <hi>requite evil for good</hi> a cheating trick for helping at a need) <hi>and ſhewing no mercy,</hi> Pſal. 109. from 5. to 17. I know this will ſeem harſh Doctrine to ſome Heirs, who have gotten the poſſeſſion of their Revenues; and many <hi>excuſes</hi> they will make for the holding faſt what they have gotten into their hands.</p>
+            <p>Oh ſays one, I am my <hi>Grandfathers heir,</hi> and not my Fathers: But how come the Title to you from your Grandfather, but through the loins of your Father?</p>
+            <p>Yea, but men <hi>need not have truſted</hi> my Fa<g ref="char:EOLhyphen"/>ther, ſeeing the Eſtate was entailed, which they might well think, tho they never ſaw it. It may be ſo; and if any knowing it, would chuſe to run the riſque, they may blame themſelves; And yet there might be covert enough to conceal a fraud: Did the Credi<g ref="char:EOLhyphen"/>tor
+<pb n="44" facs="tcp:32984:25"/>for 100. <abbr>
+                  <hi>l.</hi>
+               </abbr> know how many Hundreds or Thouſands, your Father owed to other men? If not, he might innocently think, that ſo conſiderable a Revenue might eaſily pay ſo ſmall a debt as this, and charitably think too, that your Auceſtor would honeſt<g ref="char:EOLhyphen"/>ly do it, and not leave it unſatisfied, till by death the entail ſhould become of force: Perhaps he little thought, that your Fathers taking the Bench, ſhould make him drop be<g ref="char:EOLhyphen"/>tween the ſtools. No, no, until there be a publick Regiſtry of all Debts, Mortgages and Entails, (a thing to be wiſhed for, ra<g ref="char:EOLhyphen"/>ther than hoped) this plea will not in Con<g ref="char:EOLhyphen"/>ſcience ſatisfie the caſe.</p>
+            <p>O but (ſays another) if I ſhould ſatisfie all my Fathers Creditors, I ſhould have no<g ref="char:EOLhyphen"/>thing left for my ſelf: So ſaid the <hi>Jay,</hi> if e<g ref="char:EOLhyphen"/>very Bird claim his Feather; I ſhall be left naked: Be it ſo; and then your caſe is as o<g ref="char:EOLhyphen"/>ther poor mens Children are; lower your topſail, and apply your ſelf (as they do) to induſtry for a livelyhood.</p>
+            <p>But I am <hi>higher bred.</hi> I pray conſider at whoſe charges?</p>
+            <p>'Twas not (it ſeems) your Fathers mo<g ref="char:EOLhyphen"/>ney, but other mens in his hand, that thus ſet you forth.</p>
+            <p>But (yet again) why ſhould I <hi>ſuffer</hi> fot my <hi>Fathers folly?</hi>
+            </p>
+            <pb n="45" facs="tcp:32984:25"/>
+            <p>By as much Reaſon as you ſhould flouriſh by your Grandfather, or great-Grandfathers Wiſdom: And by much better reaſon, than that the Creditors Children ſhould fuffer for indiſcretions or prodigalities of thoſe who to them are nothing of kin.</p>
+            <p>Come, come; do not overwean; all other Families were not made to ſupport yours; they have as direct a line, and as large a Pe<g ref="char:EOLhyphen"/>digree to <hi>Adam</hi> and <hi>Noah</hi> as yours: blow off the froth of airy titles; and then if there be no liquor in the bottom, none you can have; poſſeſſion is no point of Law in the Court of Conſcience: And therefore, as ere you hope to have Gods bleſſing upon your Perſon, Eſtate and Poſterity; or as you think this bleſſing any thing worth the ha<g ref="char:EOLhyphen"/>ving, be juſt: Conſider <hi>all circumstances of equity;</hi> And to your utmoſt give all men due ſatisfaction.</p>
+            <p>Families (you ſee before) as well as per<g ref="char:EOLhyphen"/>ſons (and the ſame may be ſaid of <hi>Cities</hi> or other <hi>publick fiſques</hi>) may be the ſubjects of ſin, and the objects of the curſe: and in<g ref="char:EOLhyphen"/>deed as to all, that rule holds, <hi>Non tollitur peccatum, niſi reſtituatur oblatum.</hi> No true repentance or pardon, without reſtitution: And therefore,</p>
+            <p n="3">3. <hi>Corporations</hi> are herein alſo concern<g ref="char:EOLhyphen"/>ed.</p>
+            <pb n="46" facs="tcp:32984:26"/>
+            <p>Some, perhaps, may doubt, how <hi>bodies po<g ref="char:EOLhyphen"/>litick,</hi> that (properly, and as ſuch) have no ſouls, can be ſubjects of ſin, and objects of puniſhment: But let ſuch conſider, That tho the <hi>polity</hi> has no ſoul or conſcience, yet the perſons that manage it, have, and in them may be ſin; ſo have the perſons that are concerned in its welfare and to them may be puniſhment.</p>
+            <p>As for ſuch bodies, I am fully of the mind of a Reverend Divine of this Church, in a Sermon upon 1 Theſ. 14.6. <hi>That no man go beyond, or defrand his brother in any matter, becauſe that the Lord is the avenger of all ſuch,</hi> (preached before the Magiſtracy of our great City, and after printed). That all un<g ref="char:EOLhyphen"/>righteouſneſs of <hi>bodies politick</hi> will be ac<g ref="char:EOLhyphen"/>counted for in <hi>this world;</hi> for that in the o<g ref="char:EOLhyphen"/>ther world, there will be none ſuch to be judged: So that the injuſtice of Magiſtrates in their publick adminiſtrations to which the people are ſuppoſed to concur, does not only contract <hi>perſonal guilt,</hi> but alſo a guilt and puniſhment upon the community: Thus all <hi>Iſuael</hi> ſuffered for <hi>Sauls</hi> deſtroying the <hi>Gi<g ref="char:EOLhyphen"/>beonites,</hi> which ('tis ſaid) <hi>he ſought in his zeal to the children of Iſrael and Judah,</hi> 2 Sam. 21.2. beſides what account <hi>Saul</hi> gave of it in his particular judgment: And 'tis obſervable, this affliction was in <hi>Davids</hi>
+               <pb n="47" facs="tcp:32984:26"/>days, after that <hi>Saul</hi> was dead: Whence we may learn, that the iniquity ſtuck to them for <hi>whoſe ſake</hi> it was done: And that ſooner or later, be ſure judgment will awake, where ſin is unrepented of, and unpardo<g ref="char:EOLhyphen"/>ned: Eſpecially may this be expected when the cries of mournful Widows, Orphans, and other diſtreſſed perſons, who want what is unjuſtly taken or detained from them, ſhall aſcend and ſound loud in the ears of the Almighty: And then <hi>ſhall not the judg of all the earth do right?</hi> The Holy Spirit directs <hi>Solomon</hi> to tell us, that he will, Eccleſ. 3.16, 17. <hi>I ſaw under the Sun, the place of judg<g ref="char:EOLhyphen"/>ment, that wickedneſs was there, and the place of righteouſneſs that iniquity was there: I ſaid in heart, God ſhall judg the righteous and the wick<g ref="char:EOLhyphen"/>ed; and there is a time there for every purpoſe, and for every work. There,</hi> even under the Sun, where the wickedneſs is committed; a <hi>time,</hi> as well as an eternity, wherein God will glorifie his Juſtice: I could give many other Inſtances of this nature, but let this ſuffice for the preſent.</p>
+            <p>And thus much for thoſe that are <hi>in debt,</hi> or ſtand obliged in Conſcience to make ſa<g ref="char:EOLhyphen"/>tisfaction: Let them do it forthwith to the utmoſt, and willingly <hi>owe nothing to any man.</hi>
+            </p>
+            <p n="2">2. To thoſe that are out of debt, this
+<pb n="48" facs="tcp:32984:27"/>Scripture and the Explication thereof ſpeaks aloud to warn them, that by all honeſt means, and what in them lies they endea<g ref="char:EOLhyphen"/>vour to keep themſelves ſtill free thereof: If indeed God by his Holy and Wiſe Provi<g ref="char:EOLhyphen"/>dence brings you low, and that without a<g ref="char:EOLhyphen"/>ny manifeſt fault or folly of your own; all men are bound to pity and aſſiſt you; as if a man be dropt overboard, the next man muſt heave out a halter, and every hand muſt help to draw him in; and in reference to God, you your ſelf ſhould humbly ſubmit, couch under the burden, and with Holy <hi>Job,</hi> bleſs his Holy name.</p>
+            <p>But if it falls within the verge of humane prudence to prevent; ſet to your utmoſt en<g ref="char:EOLhyphen"/>deavours; 'tis your duty and wiſdom ſo to do.</p>
+            <p>And this I conceive (in an ordinary way) may be done (after humble ſupplications to the Almighty for pardon and peace, in and through Chriſt Jeſus) by a ſerious endea<g ref="char:EOLhyphen"/>vour to mortifie ſome particular unruly luſts which commonly do impoveriſh and em<g ref="char:EOLhyphen"/>broil; and then to practice their contrary Graces: Such ſpecial luſts are <hi>ſodomitical ſins, exceſſive Covetouſneſs,</hi> and <hi>vain Confi<g ref="char:EOLhyphen"/>dence.</hi>
+            </p>
+            <p n="1">1. The <hi>Sodomitical</hi> ſins, are <hi>pride, Idleneſs,</hi>
+               <pb n="49" facs="tcp:32984:27"/>and <hi>fulneſs of bread;</hi> which will of them<g ref="char:EOLhyphen"/>ſelves deſtroy us, tho God withhold his fire from Heaven, or any immediate ſeverity towards us.</p>
+            <p n="1">1. <hi>Pride</hi> is a Prodigal and ſpending luſt; it many ways ſhews it ſelf, as in Houſes, Habits, Entertainments, Retinues, coſtly Houſes, and Coaches, &amp;c. above ones ſtate or condition: Alſo in expenſive Recreations, high wagering and gaming, keeping high company, who are much above our quality: Thus the Toad ſwells before the Oxe till he burſt: Alſo the proud Prodigal in his hu<g ref="char:EOLhyphen"/>mour is monſtrous large and profuſe in his gifts, that he may ſeem bountiful as well as able, without any reſpect to reaſon; and this not to any fit objects of charity; but com<g ref="char:EOLhyphen"/>monly, and eſpecially to idle Paraſites, and Hangbys, that blow up his empty ſwelling ſelf-conceit.</p>
+            <p>Now to maintain this impertinence and folly, they find themſelves often obliged to keep up their port and ſtate by borrowing, mortgaging, and ſometimes intangling o<g ref="char:EOLhyphen"/>thers by ſuretyſhip, until the debts at long run, do (like a heavy load) at laſt fall up<g ref="char:EOLhyphen"/>on them, and quite break their backs: But even then their pride and vanity cannot leave them; for ſuch a one ſtill retaining the bragging humour when there is nothing
+<pb n="50" facs="tcp:32984:28"/>elſe left to work on, will boaſt even in a Goal what he has formerly been, what the wor<g ref="char:EOLhyphen"/>ſhip of his Family, what his worthy Ance<g ref="char:EOLhyphen"/>ſtors, before they left their Eſtates to be ſpent by a fool.</p>
+            <p>Thus acts the proud, foppiſh, and ſelf-un<g ref="char:EOLhyphen"/>doing Prodigal.</p>
+            <p>Whereas on the contrary, the <hi>humble Chriſtian,</hi> prudently conſiders his own cir<g ref="char:EOLhyphen"/>cumſtances, lives within his compaſs; ſets up no more ſail than his hull will ſafely bear; regards not the contumely of thoſe imperti<g ref="char:EOLhyphen"/>nents, who account him covetous on no o<g ref="char:EOLhyphen"/>ther ground, than that he likes not, nor imi<g ref="char:EOLhyphen"/>tates their extravagance. He indeed expends and gives only upon juſt occaſions, and that in due meaſure; yet he thereby does a great deal of real good while he lives, and commonly at death leaves his Eſtate rather improved, than impaired.</p>
+            <p n="2">2. <hi>Idleneſs</hi> neither gets any thing, nor ſaves what is gotten to his hand: <hi>Through idleneſs of the hand, the houſe droppeth through,</hi> Eccleſ. 10.18. And <hi>he becometh poor that dealeth with a ſlack hand,</hi> Prov. 10.4. Idle<g ref="char:EOLhyphen"/>neſs begets penury, and that ſoon begets debt: It would of it ſelf eat out an Eſtate, if it did not (as it commonly does) <hi>expoſe men</hi> to a multitude of temptations and luſts which are expenſive: This ruinous idleneſs
+<pb n="51" facs="tcp:32984:28"/>ſhews it ſelf divers ways; as, either in a <hi>lazy temper</hi> of the mind, loath to conſider or take any care; whether in Youth to get skill in an honeſt uſeful and profitable calling or after, to keep good accounts, to conrive and look after buſineſs; or elſe in an <hi>imper<g ref="char:EOLhyphen"/>tinent buſineſs; a vain wandring of the deſire,</hi> Eccieſ. 6.9. Like thoſe <hi>idle wanderers from houſe to houſe, and not only idle, but tatlers alſo, and buſie-bodies,</hi> 1 Tim. 5.13. Such are very active, and make much ado in doing nothing, becauſe nothing to their purpoſe or concern; ſuch skipping Graſs-hoppers will be in want, when the induſtrious Bee is provided for.</p>
+            <p>Or laſtly, in a <hi>lumpiſh ſelf-pleaſing</hi> temper when one would rather let all fly, than trou<g ref="char:EOLhyphen"/>ble himſelf about any buſineſs.</p>
+            <p>Add the connection of this to <hi>pride,</hi> which is often a cauſe of idleneſs, and inclines too many to think it ſcorn for him that has any thing, to do any thing.</p>
+            <p>But be you (my Friends) as conſcienti<g ref="char:EOLhyphen"/>ous Chriſtians (after the chief things that concern Gods Glory, and your own ſalva<g ref="char:EOLhyphen"/>tion) honeſtly induſtrious in your ſtations and callings, to <hi>provide things honeſt in the ſight of all men.</hi>
+            </p>
+            <p>While you are young, fit your ſelves for buſineſs; and when you are Elder, do it to
+<pb n="52" facs="tcp:32984:29"/>effect. Go thorow-ſtitch with your work, and the diligent hand, by the ordinary Provi<g ref="char:EOLhyphen"/>dence of God, will make you rich, at leaſt to ſuch a competence as ſhall free you from ſuch incumbring care and trouble, as debt and penury do involve men in; keep your ſhops, and your ſhops ſhall keep you; yea, thus you ſhall rather <hi>have to give</hi> to thoſe that want, than borrow of, and be trouble<g ref="char:EOLhyphen"/>ſome, or burthenſome to thoſe that have.</p>
+            <p n="3">3. Fulneſs of bread, Gluttony, Drunken<g ref="char:EOLhyphen"/>neſs, Carnality, Lechery, and ſuch like ful<g ref="char:EOLhyphen"/>ſome luſts, are very waſtful to Eſtates. Theſe bring to poverty and want; as har<g ref="char:EOLhyphen"/>lotry, for Inſtance; <hi>By means of a whoriſh woman a man is brought to a piece of bread,</hi> Prov. 6.26. So ſenſual appetite, with vain and expenſive pleaſure; <hi>he that loveth plea<g ref="char:EOLhyphen"/>ſure ſhall be a poor man; and he that loveth wine and oil, ſhall not be rich,</hi> Prov. 21.17. To live high, and indulge appetite, will bring men low; and what then? To <hi>beg</hi> they may think is below them, or perhaps they may fear 'twill be to little purpoſe; they may think likely, they ſhall rather be up<g ref="char:EOLhyphen"/>braided than relieved: <hi>borrowing</hi> comes next, and if that will not do, then to ſtealing, and ſo to hanging: You ſee the place where borrowing naturally ſtands, even between begging and ſtealing, and near neighbour to
+<pb n="53" facs="tcp:32984:29"/>the Gallows: Flee therefore from all fleſhly luſts; abſtain from tipling and idle compa<g ref="char:EOLhyphen"/>ny-keeping, which waſts both time and mo<g ref="char:EOLhyphen"/>ney, and ruins many a trading man that is in a hopeful way; be always and certain in the way, that buſineſs, and the profits that attends it, may know where to find you: Inure your ſelves to temperance and ſobriety with redemption of time; ſo (beſides keep<g ref="char:EOLhyphen"/>ing a good conſcience) you may ſave many a ſhilling, that others impertinently ſpend, and yet want no comfort of this life, that is honeſtly good for you.</p>
+            <p>The profit of money ſaved, may be gueſ<g ref="char:EOLhyphen"/>ſed by the Table of Intereſt, which I will ſuppoſe is leſs than may be made thereby, or prudent trading men would never give it.</p>
+            <p>Now 1 <abbr>
+                  <hi>l.</hi>
+               </abbr> in 30 Years, by compound Inte<g ref="char:EOLhyphen"/>reſt at 6 <abbr>
+                  <hi>p. cent.</hi>
+               </abbr> comes to above 79 <abbr>
+                  <hi>l.</hi>
+               </abbr> 10 <abbr>
+                  <hi>s.</hi>
+               </abbr> Suppoſe therefore at the Age of 20 Years, thou haſt ſpent 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> at ſome Game, idle careſs, or needleſs entertainment; and at the Age of 50 for an occaſion thou wanteſt 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> for which thou muſt go about ſorrow<g ref="char:EOLhyphen"/>ing and borrowing, to ſee how and where thou mayeſt get it. How much better now had it been, that thou hadſt ſaved the 1 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>touſly ſpent, and improved it as thou mightſt have done? For then thou would now have
+<pb n="54" facs="tcp:32984:30"/>had the 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> for thy need (without borrow<g ref="char:EOLhyphen"/>ing) and near 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> of ready caſh leſt in thy Pocket, and ſo in Proportion 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> gives near 4 <abbr>
+                  <hi>l.</hi>
+               </abbr> and 1 <abbr>
+                  <hi>d.</hi>
+               </abbr> gives 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 7 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>I have inſtanced in this computation, to ſhew how many do fooliſhly waſte in their Youth, what might do them good ſervice, and ſave them much trouble in their age: But if men muſt once in their life be pro<g ref="char:EOLhyphen"/>fuſe, they were better deſer it till their age, and then (if they have no more wit) yet their damage will be leſs: And thus much for the Sodomitical expenſive ſins. Add to them,</p>
+            <p n="2">2. <hi>Covetouſneſs,</hi> which does (as in the Fable) often crave much, and loſe all: Some deſigning to get an Eſtate to them<g ref="char:EOLhyphen"/>ſelves by a great trade, have run in debt be<g ref="char:EOLhyphen"/>yond their ſtock, and as far as their credit would ſtretch: But then ſome Providence croſſing them, they have failed themſelves, and ruined many others with them; or as a wag expreſſed it in his news from the Ex<g ref="char:EOLhyphen"/>change, This Week the Merchants are <hi>like nine pins.</hi> one is ſtruck, and he tumbles down 5 or 6 more: This moſtly happens when <hi>deceitfully</hi> mens <hi>weakneſs is concealed</hi> from thoſe that give them credit: Whereas if in<g ref="char:EOLhyphen"/>deed mens Eſtates were truly known, and others will pleaſe to truſt them on the ac<g ref="char:EOLhyphen"/>count
+<pb n="55" facs="tcp:32984:30"/>of preſumed honeſty and induſtry, and not on a miſtaken conceit of their ability; ſuch Creditors run their own riſque, and cannot blame the debtor, if things (with<g ref="char:EOLhyphen"/>out his default) anſwer not their expectati<g ref="char:EOLhyphen"/>on; here they are as party adventurers; whereby they may help up honeſt young Beginners, and conveniently advantage themſelves by the others care and labour: If thus men trade upon other mens ſtocks, much good may be done to the debtors, and no harm is in appearance to enſue, but what the Creditors are prepared for.</p>
+            <p>Others there be (as I am told, for I am no Trader) that tho they depend not much on others ſtocks, yet they over-trade their own; that ſo venture their all, as to reap little profit, even by conſiderable returns; fraight and cuſtom muſt be preſently paid, and they are out of Caſh; then are they forced to borrow of Bankers at unreaſona<g ref="char:EOLhyphen"/>ble rates; and ſuddenly ſell their goods at under-rates to make them ſatisfaction: Be<g ref="char:EOLhyphen"/>ſides, theſe high Traders, are often forced (as 'tis ſaid) to draw moneys, when the Exchange is to their loſs: But I ſhall med<g ref="char:EOLhyphen"/>dle no farther in theſe things which I do not well underſtand. Only thus far I do, that it is beſt to deal within compaſs; ſafer to <hi>under-trade,</hi> than <hi>over,</hi> that you be never
+<pb n="53" facs="tcp:32984:31"/>put to diſtreſs. Crave not greater matters than in an ordinary way may be eaſily at<g ref="char:EOLhyphen"/>tained; make not more haſt than good ſpeed to be rich; and be content with moderate gains, according to that clear portion which God has given you.</p>
+            <p>And if you make conſcience of running any man into hazzards for your advantage, your ſmall profits will be more comfortable to you, than greater, with ſo much per<g ref="char:EOLhyphen"/>plexing care, as uſually does accompany men over-reaching themſelves, and the un<g ref="char:EOLhyphen"/>juſt endangering of other mens Eſtates.</p>
+            <p n="3">3. This of covetouſneſs is uſually follow<g ref="char:EOLhyphen"/>ed with a <hi>vain confidence,</hi> and projects: I knew one of 600 <hi>per annum,</hi> not given to any known vicc; yet ſpent his all, in this way, ſo as he left not enough to bury him af<g ref="char:EOLhyphen"/>ter a mean faſhion, to pay for Grave Clothes, and 10 <abbr>
+                  <hi>s.</hi>
+               </abbr> for 6 Foot of Earth, wherein to lay his Corps.</p>
+            <p>How many fine fancies have ſuch men, and how ſtrong are their conceits, that all ſhall ſucceed as they would have it, to their great imaginary advantage; when alas, all their Fabrick (like the childrens Towers of Cards) as ſoon puffed down by an unex<g ref="char:EOLhyphen"/>pected Providence, and then they may ſee their vanity, which before they would not think of. Therefore let me adviſe you to
+<pb n="57" facs="tcp:32984:31"/>take heed of building Caſtles in the Air; preſuming on any ſucceſs, but what in a ſo<g ref="char:EOLhyphen"/>ber and religious dependance on Gods Pro<g ref="char:EOLhyphen"/>vidence, you may with good reaſon expect. Always make <hi>experiments in little,</hi> and ne<g ref="char:EOLhyphen"/>ver adventure farther in any thing, than if diſappointed, you may in likelihood ſafely retreat.</p>
+            <p>Thus you may live comfortably, and freely, without the aforementioned diſgrace<g ref="char:EOLhyphen"/>ful troubles; <hi>parvo vivitur bene,</hi> a little will ſerve turn to live well, if men will be ſo wiſe as to cut their ſuit according to their cloth.</p>
+            <p>And thus much of <hi>owing nothing to any man.</hi> It follows, <hi>But to love one another;</hi> this is a mutual and metaphorical debt, which is of a far more comfortable and creditable nature.</p>
+            <p>There are other Metaphorical debts of which we read in Scripture; ſome of theſe we ſhall briefly mention, as tending to ex<g ref="char:EOLhyphen"/>plain this debt of love. One is of <hi>Gods being indebted</hi> to men, upon a certain ſuppoſition, <hi>to him that worketh is the reward, not recko<g ref="char:EOLhyphen"/>ned of graae, but of debt,</hi> Rom. 4.4. But this condition is never fulfilled, no works of man can oblige God, or make him any thing a debtor to us; ſo that we are always his debtors, but he is never ours.</p>
+            <pb n="58" facs="tcp:32984:32"/>
+            <p>Another Metaphorical Debt is that which is <hi>claimed</hi> by <hi>corrupt nature,</hi> which yet is not due, and muſt not be paid; tyrannical luſts exact ſeverely, and hold many perſons in great ſlavery to them; but we are informed of our liberty in this reſpect, <hi>We are debtors not to the fleſh, to live after the fleſh,</hi> Rom. 8.12. Alſo in reſpect of another ſuch like debt; namely, to <hi>ceremonious obſervances: Every man that is circumciſed is a debtor to do the whole law,</hi> Gal. 5.3. But from this Jeſus Chriſt, our great Surety and Lawgiver hath made us free. We read alſo of a debt of <hi>obligation by oath; Whoſoever ſhall ſwear by the Gold of the Temple, he is a debtor,</hi> Matth. 23.16. Oaths, if they are regularly ſworn by one that is more ſacred than the Gold, e<g ref="char:EOLhyphen"/>ven by the God of the Temple, muſt be ac<g ref="char:EOLhyphen"/>knowledged a debt to be conſcientiouſly diſ<g ref="char:EOLhyphen"/>charged: The obligation alſo lies firm in a <hi>debt of gratitude,</hi> which we muſt readily and cheerfully anſwer as we can get opportunity. <hi>It pleaſed them of Macedonia — to make contribution to the poor Saints at Jeruſalem; it pleaſed them verily, and their debtors they are,</hi> Rom. 15.26, 27. The <hi>Gentiles</hi> were Debtors to the <hi>Jews</hi> for their Spirituals, and they were well pleaſed to expreſs their gratitude, by imparting of their temporals: From all theſe Metaphoricals, you may ſee the im<g ref="char:EOLhyphen"/>port
+<pb n="59" facs="tcp:32984:32"/>of the Phraſe is a <hi>neceſſity of performance;</hi> debt muſt be paid: So it is in the foregoing proper debt; and ſo it is in this figurative one that follows, the <hi>mutual debt of love,</hi> which the Apoſtle recommends to us inſtead of that other before at large handled.</p>
+            <p>Only the <hi>Obligation</hi> in this latter rendes it like the former: But in all other things it is extreamly different.</p>
+            <p>When a certain Roman Knight died much in debt, and his goods were after expoſed to ſale, <hi>Caeſar Auguſtus</hi> (ſaith <hi>Macrobius</hi>) ſends to buy his <hi>pillow;</hi> for ſaid he, it muſt have ſome extraordinary vertue in it, that a man ſo much in debt could ever ſleep thereon: Anxious cares drive away ſleep, and proper debt begets thoſe anxieties; but the debt of love is quite of another nature; that will never break ſleep, or caſt reproach upon us, that may well conſiſt with good huſ<g ref="char:EOLhyphen"/>bandry, comfort and repute: It has ſome ſtrange properties to be conſidered, as the more we acknowledg of this debt, the more we ſhall find owing to us; and therefore it has in it ſelf a counterballance. The paying hereof does nothing diminiſh our ability; but it is like that loan, 1 <hi>Sam.</hi> 2.20. <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi> who was asked of God, was received from him, returned to him, and yet ſtill en<g ref="char:EOLhyphen"/>joyed by his Parents; ſo is this love, which
+<pb n="60" facs="tcp:32984:33"/>tho it paſſes reciprocally from one to another, yet there is no love loſt: Yea, which is yet more, the payment hereof does nothing diminiſh the debt, for we ſtill owe as much as we have paid: And this not only (as o<g ref="char:EOLhyphen"/>ther debts) amongſt mortals here below: But in the Heavenly Habitations, the Bleſſed Saints and Angels are ever loving, and ever owing love unto Eternity.</p>
+            <q>
+               <l>Love is a charge that never is defraid.</l>
+               <l>'Tis ever paying, and yet never paid.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:32984:33"/>
+            <head>
+               <hi>Books Printed and ſold by</hi> Tho<g ref="char:EOLhyphen"/>mas Cockerill, <hi>at the</hi> Three Legs <hi>over againſt the</hi> Stocks-Market.</head>
+            <p>THE Works of the late learned Divine <hi>Stephen Charnock,</hi> B. D. being ſeveral Diſcourſes upon the Exiſtence and Attributes of God, Vol. 1. to which is added his Diſ<g ref="char:EOLhyphen"/>courſe of Divine Providence, Fol.</p>
+            <p>The Works of the late learned Divine <hi>Stephen Charnock,</hi> B. D. being ſeveral diſcour<g ref="char:EOLhyphen"/>ſes upon various divine ſubjects, vol. 2 Fol.</p>
+            <p>Some Priſon Meditations and Directions on ſeveral ſubjects, viz. on the Fall of Man, the ſufferings of Chriſt, Repentance and Faith, Reproof and Counſel, The holy Scriptures, Prayer, Love to Mankind, Sin<g ref="char:EOLhyphen"/>cerity, the vanity of the World, the benefit of afflictions, Heaven and Hell. By <hi>Sa<g ref="char:EOLhyphen"/>muel Young,</hi> Miniſter of the Goſpel. Small <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vo.</hi>
+            </p>
+            <pb facs="tcp:32984:34"/>
+            <p>The <hi>Morning Exerciſc</hi> at <hi>Cripplegate</hi> of ſeveral Caſes of Conſcience, practically re<g ref="char:EOLhyphen"/>ſolved by ſundry Miniſters, in <hi>Quarto.</hi> A Supplemeat to the <hi>Morning Exerciſe</hi> at <hi>Crip<g ref="char:EOLhyphen"/>plegate,</hi> or ſeveral more caſes of Conſcience, practically reſolved by ſuundry Miniſters, in <hi>4to.</hi>
+            </p>
+            <p>
+               <hi>Speculum Theologiae in Chriſto:</hi> or a View of ſome Divine Truths which are either practi<g ref="char:EOLhyphen"/>call exemplified in Jeſus Chriſt, ſet forth in the Goſpel, or may be reaſonably deduced from thence; by <hi>Edward Polhil</hi> of <hi>Burwaſh</hi> in <hi>Suſſex,</hi> 
+               <abbr>Eſq</abbr> in <hi>4to.</hi>
+            </p>
+            <p>
+               <hi>Precious Faith</hi> conſidered, in its nature, working and growth, by <hi>Edward Polhil,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>&amp;c.</hi> in <hi>4to:</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
